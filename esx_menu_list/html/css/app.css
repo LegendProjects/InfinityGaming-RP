@@ -1,0 +1,56 @@
+@font-face {
+	font-family: Naowh;
+	src: url('../fonts/Naowh.ttf');
+}
+
+.menu {
+	font-family: Naowh;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	box-shadow: 0 1px 5px #000 inset, 0 1px 0 #1e1e1e;
+	overflow-y: auto;
+	max-height: 90%;
+	text-shadow:
+        -1.0px -1.0px 0 #000,
+        1.0px -1.0px 0 #000,
+        -1.0px 1.0px 0 #000,
+		1.0px 1.0px 0 #000;
+		border: 1px solid rgba(34, 166, 240, 1.0);
+}
+
+.menu button {
+	font-family: Naowh;
+}
+
+.menu>table {
+	border: 1px transparent;
+	border-spacing: 0;
+	min-width: 400px;
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.87);
+}
+
+.menu>table>thead {
+	background-color: rgba(34, 166, 240, 1.0);
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+	color: #fff;
+}
+
+.menu td {
+	text-align: center;
+	padding: 8px;
+}
+
+.menu tbody tr:nth-child(even) {
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.87);
+}
+
+.menu tbody tr:nth-child(odd) {
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.87);
+}

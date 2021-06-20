@@ -1,0 +1,95 @@
+Config = {}
+
+Config.keybinds = {
+    {
+        category='Commands',
+        keys={
+            {description='To take off scuba suit', key='/takeoff'},
+            {description='Play rock, paper, scissors.', key='/rps'},
+            {description='Roll a dice', key='/dice {num1-3}'},
+            {description='Kneel/Surrender', key='/k'},
+        },
+    },
+    {
+        category='General Keybinds',
+        keys={
+            
+            {description='Inventory', key='Tab'},
+            {description='Phone', key='F1'},
+            {description='Radio', key='F2'},
+            {description='Animations Menu', key='F3'},
+            {description='Non-Whitelisted Job Actions Menu', key='F5'},
+            {description='Whitelisted Job Actions Menu', key='F6'},
+            {description='Player Interaction Menu', key='F7'},
+            {description='Pet Interaction Menu', key='F9'},
+            {description='In-game Console', key='F8'},
+            {description='Toggle Scoreboard', key='DELETE'},
+            {description='Activate Crouch', key='CTRL'},
+            {description='Toggle Voice Range (Whisper/Normal/Shout)', key='Z'},
+            {description='Talk On Radio', key='CAPSLOCK'},
+            {description='Lockpick a nearby vehicle (Requires 1x Lockpick)', key='H'},
+            {description='Access Boot of Vehicle', key='G (Near Vehicle)'},
+            {description='Access Target Player\'s Inventory', key='G (Near Player)'},
+            {description='Toggle Vehicle Lock/Unlock', key='L'},
+            {description='Toggle Hands-up', key='LEFTSHIT + X'},
+        },
+    },
+    {
+        category='Vehicle Commands & Keybinds',
+        keys={
+            
+            {description='Speed Limiter', key='M'},
+            {description='Toggle Seatbelt', key='B'},
+            {description='Toggle Vehicle Engine', key='='},
+            {description='Toggle Vehicle Neons', key='/neons'},
+        },
+    },
+    {
+        category='Emergency Commands',
+        keys={
+            {description='To change livery', key='/livery1-5'},
+            {description='To change paint to white', key='/policepaint'},
+            {description='Place deceased in bodybag', key='/bodybag'},
+        },
+    },
+    {
+        category='Emergency Keybinds',
+        keys={
+            {description='Toggle ANPR', key='LEFTALT + UPARROW'},
+            {description='Toggle K9 Menu', key='LEFTALT + HOME'},
+            {description='Toggle K9 Follow', key='['},
+            {description='Toggle K9 Into/Out of Vehicle', key=']'},
+        },
+    },
+    {
+        category='Emergency Lighting System Controls',
+        keys={
+            {description='Horn control', key='E'},
+            {description='Wail tone', key='1'},
+            {description='Yelp tone', key='2'},
+            {description='Auxilary tone 1', key='3'},
+            {description='Auxilary tone 2', key='4'},
+            {description='Toggles Dual Siren Mode', key='5'},
+            {description='Goes to next tone or plays tone 1', key='R'},
+            {description='Toggles main siren', key='Left Alt Key'},
+            {description='Toggles vehicles Light Stages using L Alt Modifier toggles backwards depending on Activation type', key='Q'},
+            {description='Toggles vehicles Primary Patterns using L Alt Modifier toggles backwards', key='7'},
+            {description='Toggles vehicles Secondary Patterns using L Alt Modifier toggles backwards', key='8'},
+            {description='Toggles vehicles Warning Patterns using L Alt Modifier toggles backwards', key='9'},
+            {description='Toggles vehicles Takedown Lights (Extra 12)', key='.'},
+            {description='Toggles vehicles Scene Lights (Extra 11)', key='Alt + .'},
+            {description='Toggles vehicles secondary lights', key='K'},
+            {description='Toggles vehicles warning lights', key='L'},
+            {description='Toggles vehicles Cruise Lights', key='['},
+            {description='Toggles vehicles Arrowboard if equipped(Not fully working)', key='L Alt + ['},
+            {description='Toggles UI Panel', key='L Ctrl + P'},
+            {description='Toggle Auxilary Tone 1', key='DPad Up'},
+            {description='Toggle Main Siren', key='DPad Down'},
+            {description='Toggle Light Stages', key='DPad Left'},
+            {description='Toggle Takedownlights (Extra 12)', key='DPad Right'},
+            {description='Horn Control', key='L3(Press left stick)'},
+            {description='Wail Tone', key='B(XBox) or O/Circle (PS)'},
+            {description='Yelp Tone', key='L3(Press left stick) + B(XBox) or O/Circle (PS)'},
+        },
+    },
+}

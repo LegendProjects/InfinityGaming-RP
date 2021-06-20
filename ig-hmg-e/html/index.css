@@ -1,0 +1,67 @@
+
+body {
+    background: none !important;
+}
+
+#container {
+    font-size: 20px;
+    padding: 25px;
+    color: white;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(44, 44, 44);
+    min-height: 425px;
+    max-width: 400px;
+    border: 2px solid aliceblue;
+    border-radius: 7px;
+}
+
+button {
+    background-color: aliceblue;
+    padding: 12px;
+}
+
+input {
+    margin-bottom: 5px;
+    width: 100%;
+    font-size: 15px;
+    padding: 12px;
+}
+
+.GuessButtons {
+    width: 75px;
+    height: 75px;
+    background-color: rgba(79, 79, 79, 150);
+    border-radius: 10px 10px;
+    border: 0;
+    box-shadow: none;
+    padding: 1px;
+}
+
+.GuessButtons:hover {
+    background-color: rgba(230, 230, 230, 150);
+}
+
+.timer1 {
+    margin-top: 30px;
+    height: 5px;
+    width: 405px;
+    position: absolute;
+    z-index: 2;
+    background-color: rgb(143, 98, 0);
+    margin-left: auto;
+    border-radius: 10px 10px;
+}
+
+.timer2 {
+    margin-top: 30px;
+    height: 5px;
+    width: 100px;
+    position: absolute;
+    z-index: 3;
+    background-color: rgb(255, 174, 0);
+    margin-left: auto;
+    border-radius: 10px 10px;
+}

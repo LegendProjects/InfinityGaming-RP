@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link href="vendor/latofonts.css" rel="stylesheet">
+  <link href="vendor/flexboxgrid.6.3.1.min.css" rel="stylesheet"></link>
+  <link href="vendor/animate.3.5.2.min.css" rel="stylesheet"></link>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700,900&display=swap" id="font">
+  <link href="index.css" rel="stylesheet"></link>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+  <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+  <script src="vendor/vue.2.3.3.min.js" type="text/javascript"></script>
+  <script src="config.default.js" type="text/javascript"></script>
+  <script src="config.js" type="text/javascript"></script>
+</head>
+<body>
+  <div id="app"></div>
+
+
+
+  <!-- App Template -->
+  <script type="text/x-template" id="app_template">
+    <div id="app" :class="{ 'fadeOutLeft animated': !showWindow, 'hidden': shouldHide }">
+		<div class="header">
+			<button class="tablink borderBotLeft" onclick="openPage('Global', this, event)" value="global" id="defaultOpen">InfinityGaming.CO.NZ</button>
+		  </div>
+		<div id="Global" class="tabcontent">
+		  <div class="chat-window" :style="this.style">
+			<div class="chat-messages" ref="messages">
+			  <message v-for="msg in messages"
+					   :templates="templates"
+					   :multiline="msg.multiline"
+					   :args="msg.args"
+					   :color="msg.color"
+					   :template="msg.template"
+					   :template-id="msg.templateId"
+					   :key="msg">
+			  </message>
+			</div>
+		  </div>
+		</div>
+	
+
+      <div class="chat-input" v-show="showInput">
+        <div>
+			<div id="panelEmoji" style="position: absolute; left: 0px; top: 30px; z-index: 999; display: none; width: 23.15vw; height: 120px; overflow-y: scroll; padding: 5px 2px 5px 5px; margin-bottom: 5px;">
+			<ul style="padding: 0px; margin: 0px; list-style: none;">
+				<a class="dbxPanel" value=":)" style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🙂</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😂</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😃</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😍</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😁</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😔</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😓</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😳</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😱</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😡</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😴</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🙈</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😭</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">👍</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">💩</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🤣</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😲</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😎</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🤑</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🤯</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">😕</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🤢</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🤭</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🤮</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🤓</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🧐</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🤠</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🤬</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">👨‍💻</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">❤️</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">💔</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🖤</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🏳️‍🌈</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🏴‍</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">❌</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">💲</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">⛩️</a>
+				<a class="dbxPanel" value=":)"   style="text-decoration: none; margin: 5px; position: initial; font-size: 24px;">🐶</a>
+				<a class="dbxPanel" type="img" value=":waitwhat:" style="text-decoration: none; margin: 4px; position: initial; font-size: 24px;"><img class="dbxicon" src="https://cdn.discordapp.com/emojis/480080651790581771.gif?v=1" width="25px"></img></a>
+        <a class="dbxPanel" type="img" value=":kek:" style="text-decoration: none; margin: 4px; position: initial; font-size: 24px;"><img class="dbxicon" src="https://cdn.discordapp.com/emojis/717319821070434395.gif?v=1" width="25px"></img></a>
+        <a class="dbxPanel" type="img" value=":pepega:" style="text-decoration: none; margin: 4px; position: initial; font-size: 24px;"><img class="dbxicon" src="https://cdn.discordapp.com/emojis/706696523114610749.png?v=1" width="25px"></img></a>
+
+        
+      
+      </ul></div>
+		  <span class="prefix">➤</span>
+		  <div id="emoji" ><span class="emoji">😀</span></div>
+          <textarea id="inputText" v-model="message" placeholder=""
+                    ref="input"
+                    type="text"
+                    autofocus
+                    spellcheck="false"
+                    @keyup.esc="hideInput"
+                    @keyup="keyUp"
+                    @keydown="keyDown"
+                    @keypress.enter.prevent="send">
+          </textarea>
+        </div>
+        <suggestions :message="message" :suggestions="suggestions">
+        </suggestions>
+      </div>
+    </div>
+  </script>
+
+  <!-- Message Template -->
+  <script type="text/x-template" id="message_template">
+    <div class="msg" :class="{ multiline }">
+      <span v-html="textEscaped"></span>
+    </div>
+  </script>
+<!--Doublox#9803-->
+  <!-- Suggestions Template -->
+  <script type="text/x-template" id="suggestions_template">
+    <div class="suggestions-wrap" v-show="currentSuggestions.length > 0">
+      <ul class="suggestions">
+        <li class="suggestion" v-for="s in currentSuggestions">
+          <p>
+            <span :class="{ 'disabled': s.disabled }">
+              {{s.name}}
+            </span>
+            <span class="param"
+                  v-for="(p, index) in s.params"
+                  :class="{ 'disabled': p.disabled }">
+              [{{p.name}}]
+            </span>
+          </p>
+          <small class="help">
+            <template v-if="!s.disabled">
+              {{s.help}}
+            </template>
+            <template v-for="p in s.params" v-if="!p.disabled">
+              {{p.help}}
+            </template>
+          </small>
+        </li>
+      </ul>
+    </div>
+  </script>
+
+  <!-- Scripts -->
+  <script type="text/javascript" src="./Suggestions.js"></script>
+  <script type="text/javascript" src="./Message.js"></script>
+  <script type="text/javascript" src="./App.js"></script>
+<!--Doublox#9803-->
+  <!-- Main Entry -->
+  <script type="text/javascript">
+  window.post = (url, data) => {
+    var request = new XMLHttpRequest();
+    request.open('POST', url, true);
+    request.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
+    request.send(data);
+  }
+
+  /*const instance = new Vue({
+    el: '#app',
+    render: h => h(APP),
+  });*/
+
+
+  window.emulate = (type, detail = {}) => {
+    detail.type = type;
+    window.dispatchEvent(new CustomEvent('message', {
+      detail,
+    }));
+  };
+  </script>
+<!--Doublox#9803-->
+</body>
+</html>

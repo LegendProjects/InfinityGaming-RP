@@ -1,0 +1,211 @@
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@font-face {
+    font-family: Arial;
+    src: url('fonts/arial.ttf');
+}
+
+* {
+    font-family: Arial;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: white;
+}
+.alerts-wrapper {
+    float: right;
+}
+
+.content {
+    /*padding: 3% 2% 1% 3%;*/
+}
+
+.fas {
+    padding-right:8px;
+}
+
+#code {
+    font-weight: 900;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    padding:2px;
+    background: rgba(209, 21, 99, 1.0);
+    float: left;
+    border-radius: 5px;
+
+}
+
+#marker {
+    position: static;
+    float: right;
+    /*padding-top: 0.5%;*/
+    /*z-index: -1;*/
+    font-size: xx-large;
+}
+
+#alert-name {
+    font-size: 13px;
+    font-weight: 900;
+    letter-spacing: 0.5px;
+    margin-left:1%;
+    float: left;
+}
+
+#alert-info {
+    font-size: 14px;
+    /*letter-spacing: 0.2px;*/
+    width: 100%;
+    padding-top: 5%;
+    /*padding-right: 50%;*/
+}
+
+#alert-player {
+    font-size: 14px;
+    /*letter-spacing: 0.2px;*/
+    width: 100%;
+    /* padding-top: 5%; */
+    /*padding-right: 50%;*/
+}
+
+#alert-vehicleLabel {
+    font-size: 14px;
+    /*letter-spacing: 0.2px;*/
+    width: 100%;
+    /* padding-top: 5%; */
+    /*padding-right: 50%;*/
+}
+
+#alert-vehiclePlate {
+    font-size: 14px;
+    /*letter-spacing: 0.2px;*/
+    width: 100%;
+    /* padding-top: 5%; */
+    /*padding-right: 50%;*/
+}
+
+.alerts {
+    width: 100%;
+    height: fit-content;
+    color: white;
+}
+
+.alerts.ems {
+    box-shadow: -5px 0px 0px 0px red inset;
+    background: rgba(160, 17, 48, 0.75);
+}
+
+.alerts.police {
+    box-shadow: -5px 0px 0px 0px rgb(0, 183, 255) inset;
+    background: rgba(17, 84, 160, 0.75);
+}
+
+.alerts.admin {
+    box-shadow: -3px 0px 0px 0px red inset;
+}
+
+.alerts.warning {
+    box-shadow: -3px 0px 0px 0px red inset;
+}
+
+.alerts.info {
+    box-shadow: -3px 0px 0px 0px red inset;
+}
+
+.alerts.error {
+    box-shadow: -3px 0px 0px 0px red inset;
+}
+
+.alerts.thefuckisthiscalledfor {
+    box-shadow: -3px 0px 0px 0px red inset;
+}
+
+
+
+
+
+/*.template, .notification {*/
+/*    display: none;*/
+/*}*/
+
+.notif-container {
+    width: 375px; /* was 15% */
+    max-height: fit-content;
+    position: absolute;
+    right: 0.5%; /* was 15% */
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 2%;
+}
+
+.notification {
+    width: 100%;
+    height: fit-content;
+    padding: 10px;
+    /* float: right; */
+    /*border-radius: 5px;*/
+    margin: 5px;
+}
+
+.move {
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.error {
+    box-shadow: -5px 0px 0px 0px red inset;
+    background: rgba(160, 17, 48, 0.75);
+    color: #fff;
+}
+
+.ems {
+    box-shadow: -5px 0px 0px 0px red inset;
+    background: rgba(160, 17, 48, 0.75);
+    color: #fff;
+}
+
+.police {
+    box-shadow: -5px 0px 0px 0px rgb(0, 183, 255) inset;
+    background: rgba(17, 84, 160, 0.75);
+}
+
+.backup-request {
+    box-shadow: -5px 0px 0px 0px rgb(0, 183, 255) inset;
+    background: rgba(17, 84, 160, 0.75);
+}
+
+.stolen-vehicle {
+    box-shadow: -5px 0px 0px 0px rgb(0, 183, 255) inset;
+    background: rgba(17, 84, 160, 0.75);
+}
+
+.traffic-violation {
+    box-shadow: -5px 0px 0px 0px rgb(0, 183, 255) inset;
+    background: rgba(17, 84, 160, 0.75);
+}
+
+.robbery {
+    box-shadow: -5px 0px 0px 0px rgb(0, 183, 255) inset;
+    background: rgba(30, 20, 168, 0.75);
+}
+
+.officer-down {
+    box-shadow: -5px 0px 0px 0px rgb(0, 183, 255) inset;
+    animation: myfirst 5s linear 0s infinite alternate;
+}
+
+.medic-down {
+    box-shadow: -5px 0px 0px 0px rgb(0, 183, 255) inset;
+    animation: myfirst 5s linear 0s infinite alternate;
+}
+
+@keyframes myfirst {
+    0%   {background-color: rgba(160, 17, 48, 0.75); left:0px; top:0px;}
+    15%  {background-color: rgba(17, 84, 160, 0.75); left:200px; top:200px;}
+    30% {background-color: rgba(160, 17, 48, 0.75); left:0px; top:0px;}
+    45%  {background-color: rgba(17, 84, 160, 0.75); left:200px; top:200px;}
+    60% {background-color: rgba(160, 17, 48, 0.75); left:0px; top:0px;}
+    75%  {background-color: rgba(17, 84, 160, 0.75); left:200px; top:200px;}
+    90% {background-color: rgba(160, 17, 48, 0.75); left:0px; top:0px;}
+    100%  {background-color: rgba(17, 84, 160, 0.75); left:200px; top:200px;}
+  }

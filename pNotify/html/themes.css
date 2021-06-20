@@ -1,0 +1,307 @@
+/* -----------------------------  -----------------------------  ----------------------------- */
+/* -----------------------------         Start of igNotify         ----------------------------- */
+/* -----------------------------  -----------------------------  ----------------------------- */
+body {
+    background: none;
+}
+
+.noty_theme__ig.noty_bar {
+    overflow: hidden;
+    position: relative;
+    word-wrap: normal;
+    max-width: 350px;
+}
+
+.noty_theme__ig.noty_bar .noty_body {
+    font-size: 14px;
+    max-width: 350px;
+}
+
+.noty_theme__ig.noty_bar .noty_buttons {
+    padding: 0px; 
+}
+
+.noty_theme__ig.noty_bar .noty_progressbar {}
+
+.noty_theme__ig.noty_type__alert,
+.noty_theme__ig.noty_type__notification {
+    background-color: rgb(40, 40, 40);
+    border-top: 2px solid #D1D1D1;
+    color: white;
+}
+
+.noty_theme__ig.noty_type__warning {
+    background-color: rgb(40, 40, 40);
+    border-top: 2px solid #E89F3C;
+    color: white;
+}
+
+.noty_theme__ig.noty_type__error {
+    background-color: rgb(40, 40, 40);
+    border-top: 2px solid #CA5A65;
+    color: #fff;
+}
+
+.noty_theme__ig.noty_type__info,
+.noty_theme__ig.noty_type__information {
+    
+}
+
+.noty_theme__ig.noty_type__success {
+    background-color: rgb(40, 40, 40);
+    border-top: 2px solid #A0B55C;
+    color: #fff;
+}
+
+.ig_effects_open {
+    opacity: 0;
+    -webkit-transform: translate(50%);
+    -ms-transform: translate(50%);
+    transform: translate(50%);
+    -webkit-animation: noty_anim_in 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    animation: noty_anim_in 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+
+.ig_effects_close {
+    -webkit-animation: noty_anim_out 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    animation: noty_anim_out 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards; 
+}
+
+@-webkit-keyframes noty_anim_out_left {
+  100% {
+    -webkit-transform: translate(-50%);
+            transform: translate(-50%);
+    opacity: 0; } }
+
+@keyframes noty_anim_out_left {
+  100% {
+    -webkit-transform: translate(-50%);
+            transform: translate(-50%);
+    opacity: 0; } }
+
+.ig_effects_open_left {
+    opacity: 0;
+    -webkit-transform: translate(-50%);
+    -ms-transform: translate(-50%);
+    transform: translate(-50%);
+    -webkit-animation: noty_anim_in 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    animation: noty_anim_in 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+
+.ig_effects_close_left {
+    -webkit-animation: noty_anim_out_left 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    animation: noty_anim_out_left 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    -webkit-animation-fill-mode: backwards;
+    animation-fill-mode: backwards; 
+}
+
+@-webkit-keyframes noty_anim_fade_in {
+  100% { opacity: 1; } }
+
+@keyframes noty_anim_fade_in {
+  100% { opacity: 1; } }
+
+@-webkit-keyframes noty_anim_fade_out {
+  100% { opacity: 0; } }
+
+@keyframes noty_anim_fade_out {
+  100% { opacity: 0; } }
+
+.ig_effects_fade_in {
+    opacity: 0;
+    animation: noty_anim_fade_in 0.5s;
+}
+
+.ig_effects_fade_out {
+    opacity: 1;
+    animation: noty_anim_fade_out 0.5s;
+}
+
+
+
+
+/* -----------------------------  -----------------------------  ----------------------------- */
+/* -----------------------------         End of igNotify         ----------------------------- */
+/* -----------------------------  -----------------------------  ----------------------------- */
+
+.alert>.start-icon {
+    margin-right: 0;
+    min-width: 5px;
+    text-align: center;
+}
+
+.alert>.start-icon {
+    margin-right: 5px;
+}
+
+.greencross
+{
+  font-size:18px;
+      color: #25ff0b;
+    text-shadow: none;
+}
+
+.alert-simple.alert-success
+{
+  border: 1px solid rgba(36, 241, 6, 0.46);
+    background-color: rgba(7, 149, 66, 0.12156862745098039);
+    box-shadow: 0px 0px 2px #259c08;
+    color: #0ad406;
+  text-shadow: 2px 1px #00040a;
+  transition:0.5s;
+  cursor:pointer;
+}
+.alert-success:hover{
+  background-color: rgba(7, 149, 66, 0.35);
+  transition:0.5s;
+}
+.alert-simple.alert-info
+{
+  border: 1px solid rgba(6, 44, 241, 0.46);
+    background-color: rgba(7, 73, 149, 0.22156862745098039);
+    box-shadow: 0px 0px 2px #0396ff;
+    color: #0396ff;
+  text-shadow: 2px 1px #00040a;
+  transition:0.5s;
+  cursor:pointer;
+}
+
+.alert-info:hover
+{
+  background-color: rgba(7, 73, 149, 0.35);
+  transition:0.5s;
+}
+
+.blue-cross
+{
+  font-size: 18px;
+    color: #0bd2ff;
+    text-shadow: none;
+}
+
+.alert-simple.alert-warning
+{
+      border: 1px solid rgba(241, 142, 6, 0.81);
+    background-color: rgba(220, 128, 1, 0.16);
+    box-shadow: 0px 0px 2px #ffb103;
+    color: #ffb103;
+    text-shadow: 2px 1px #00040a;
+  transition:0.5s;
+  cursor:pointer;
+}
+
+.alert-warning:hover{
+  background-color: rgba(220, 128, 1, 0.33);
+  transition:0.5s;
+}
+
+.warning
+{
+      font-size: 18px;
+    color: #ffb40b;
+    text-shadow: none;
+}
+
+.alert-simple.alert-danger
+{
+  border: 1px solid rgba(241, 6, 6, 0.81);
+    background-color: rgba(220, 17, 1, 0.16);
+    box-shadow: 0px 0px 2px #ff0303;
+    color: #ff0303;
+    text-shadow: 2px 1px #00040a;
+  transition:0.5s;
+  cursor:pointer;
+}
+
+.alert-danger:hover
+{
+     background-color: rgba(220, 17, 1, 0.33);
+  transition:0.5s;
+}
+
+.danger
+{
+      font-size: 18px;
+    color: #ff0303;
+    text-shadow: none;
+}
+
+.alert-simple.alert-primary
+{
+  border: 1px solid rgba(6, 241, 226, 0.81);
+    background-color: rgba(1, 204, 220, 0.16);
+    box-shadow: 0px 0px 2px #03fff5;
+    color: #03d0ff;
+    text-shadow: 2px 1px #00040a;
+  transition:0.5s;
+  cursor:pointer;
+}
+
+.alert-primary:hover{
+  background-color: rgba(1, 204, 220, 0.33);
+   transition:0.5s;
+}
+
+.alertprimary
+{
+      font-size: 18px;
+    color: #03d0ff;
+    text-shadow: none;
+}
+
+
+.alert:before {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: calc(100% - 44px);
+    border-left: 1px solid;
+    border-right: 2px solid;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    left: 0;
+    top: 50%;
+    transform: translate(0,-50%);
+      height: 20px;
+}
+
+.fa-times
+{
+-webkit-animation: blink-1 2s infinite both;
+	        animation: blink-1 2s infinite both;
+}
+
+
+/**
+ * ----------------------------------------
+ * animation blink-1
+ * ----------------------------------------
+ */
+@-webkit-keyframes blink-1 {
+  0%,
+  50%,
+  100% {
+    opacity: 1;
+  }
+  25%,
+  75% {
+    opacity: 0;
+  }
+}
+@keyframes blink-1 {
+  0%,
+  50%,
+  100% {
+    opacity: 1;
+  }
+  25%,
+  75% {
+    opacity: 0;
+  }
+}

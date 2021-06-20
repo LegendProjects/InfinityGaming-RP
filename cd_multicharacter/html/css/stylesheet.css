@@ -1,0 +1,169 @@
+body{
+    background-color:transparent!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+html, body{
+    width:100%;
+    height:100%;
+    padding:0px;
+    margin:0px;
+}
+#landingContainer{
+    width:100%;
+    height:100%;
+}
+#charSelectContainer{
+    opacity:0;
+    max-width:40%;
+    position: absolute;
+    top:2%;
+    left:50%;
+    transform:translateX(-50%);
+}
+@media only screen and(min-width:2560px){
+    #charSelectContainer{
+        top:5%;
+        max-width:40%;
+        max-height:auto;
+    }
+}
+@media only screen and(min-width:1900px){
+    #charSelectContainer{
+        top:2%;
+        max-height:35%;
+        max-width:50%;
+    }
+    #charSelectContainer > jumbotron{
+        min-height:100%;
+    }
+    
+}
+@media only screen and(max-width:1200px){
+    #charSelectContainer{
+        top:0%;
+        max-height:25%;
+        max-width:60%;
+    }
+}
+@keyframes fadeInCS {
+    0% {opacity:0; top:-50%}
+    100% {opacity:1; top:2%}
+}
+@keyframes fadeOutCS {
+    0% {opacity:1; top:2%;}
+    100% {opacity:0; top:-50%}
+}
+.fadeInCS{
+    animation: fadeInCS ease 1s forwards;
+}
+.fadeOutCS{
+    animation: fadeOutCS ease 1s forwards;
+}
+.discord-btn{
+    background-color:#7289DA !important;
+}
+.discord-btn:hover{
+    background-color:#2C2F33 !important;
+}
+@-webkit-keyframes AnimationName {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+@-moz-keyframes AnimationName {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+@keyframes AnimationName {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+.fadeIn{
+    animation: fadeIn 3s forwards;
+}
+.fadeOut{
+    animation:fadeOut 3s forwards;
+}
+#landingJumbo{
+    width:60%;
+}
+#landingElement{
+    opacity:0;
+}
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+@keyframes fadeOut{
+    from{opacity:1}
+    to{opacity:0};
+}
+#title{
+    color:#fff;
+}
+small{
+    color:#fff;
+}
+#text{
+    color:#fff;
+}
+#infoCharText{
+    opacity:0;
+    position:absolute;
+    bottom:5%;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+}
+#loadingText{
+    position:absolute;
+    color:#fff;
+    transform:translateX(-50%);
+    left:50%;
+    z-index:99;
+}
+#spinner{
+    z-index:1;
+}
+#createCharacterPicture{
+    position:absolute;
+    top:50%;
+    transform:translateY(-50%);
+    right:5%;
+}
+#createCharacterPicture > svg{
+    font-size:128px;
+}
+#loadingCharacterData{
+    position:absolute;
+    top:40%;
+    transform:translateY(-50%);
+    left:50%;
+    transform:translateX(-50%);
+}
+.serverIcon {
+    float:right;
+    width:128px;
+    margin-right:16px;
+}

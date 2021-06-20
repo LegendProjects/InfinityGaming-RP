@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Spawn selection map</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="css/stylesheet.css" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    </head>
+    <body>
+        <div id="mainContainer">
+            <canvas id="map"></canvas>
+            <img id="imageDay" src="images/map_day_2160.jpg" />
+            <img id="imageNight" src="images/map_night_2160.jpg"/>
+            <!--Put the preload icons here-->
+            <img id="pin" class="icons" src="images/placeholder.svg" />
+            <img id="jobPin" class="icons" src="images/job.svg" />
+            
+            <img id="customPin" class="icons" src="images/custom.svg" />
+            <img id="lastPin" class="icons" src="images/last.svg" />
+            <img id="pinSel" class="icons" src="images/placeholderchecked.svg" />
+            <!--End preload icons-->
+            <div id="infoBox">
+                <div id="actualInfoBox" class="card shadow">
+                    <img id="infoBoxImage" src="" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h5 id="infoBoxTitle" class="card-title"></h5>
+                      <p id="infoBoxDescription" class="card-text"></p>
+                      <button id="spawn" type="button" class="btn btn-success w-100" data-locale="SPAWN">Spawn</button>
+                    </div>
+                </div>
+                <div id="customLocations" class="btn-group w-100" role="group" aria-label="Basic example">
+                    <button id="lastPosition" type="button" class="btn btn-primary" data-locale="LAST_POSITION">Last Pos</button>
+                    <button id="jobPosition" type="button" class="btn btn-primary"></button>
+                    <button id="customPosition" type="button" class="btn btn-primary"></button>
+                </div>
+            </div>
+            <div id="fullList">
+                <ul id="actualFullList" class="list-group scrollbar">
+                    <li class="list-group-item list-group-item-action active"><b data-locale="LIST_OF_SPAWNS">List of spawn locations</b></li>
+                </ul>
+            </div>
+        </div>
+        <script src="../configs/mapdata.js"></script>
+        <script src="../configs/locales_ui.js"></script>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+        <script src="js/script.js"></script>
+    </body>
+</html>

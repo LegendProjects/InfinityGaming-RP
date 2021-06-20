@@ -1,0 +1,118 @@
+@font-face {
+	font-family: Naowh;
+	src: url('../fonts/Naowh.ttf');
+}
+
+* {
+	color: #fff;
+	font-family: Naowh;
+	text-shadow:
+        -1.0px -1.0px 0 #000,
+        1.0px -1.0px 0 #000,
+        -1.0px 1.0px 0 #000,
+		1.0px 1.0px 0 #000;
+	
+}
+
+#wrap {
+	width: 58vw;
+	min-height: 185px;
+	margin-top: 2.5%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(0, 0, 0, 0.75);
+	color: rgba(255, 255, 255, 0.9);
+	box-shadow: 0 1px 5px #000 inset, 0 1px 0 #1e1e1e;
+	border: 1px solid rgba(34, 166, 240, 1.0);
+}
+
+p {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-left: 14px;
+	padding-left: 14px;
+	font-size: 0.75vw;
+}
+
+.header {
+	height: 35px;
+	width: 58vw;
+	background-color: rgba(34, 166, 240, 1.0);
+	padding-left: 0px;
+	padding-right: 0px;
+	border-top-left-radius: 2px 2px;
+	border-top-right-radius: 2px 2px;
+}
+
+.title {
+	position: absolute;
+	padding-top: 5px;
+}
+
+.jobs {
+	padding-top: 5px;
+	background-color: rgba(34, 166, 240, 1.0);
+	height: 3vw;
+	font-size: 0.8vw;
+	width: 100%;
+}
+
+.jobs p {
+	font-size: 0.9vw;
+	float: right;
+}
+
+table {
+	text-align: left;
+	/* margin-left: auto;
+	margin-right: auto; */
+	overflow:scroll;
+	color: white;
+	text-transform: uppercase;
+	/* max-width: 95%; */
+}
+
+th, td {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+th {
+	padding-top: 15px;
+	height: 40px;
+}
+
+tr {
+	font-size: 0.7vw;
+}
+
+tr.heading {
+	font-size: 1vw;
+	color: rgba(255, 255, 255, 0.9);
+}
+
+.serverinfo {
+	font-size: 0.8vw;
+	text-align: center;
+}
+
+
+@media (min-width: 2560px) {
+    #wrap {
+		width: 58vw;
+    }
+
+	.header {
+		width: 58vw;
+	}
+}
+
+@media (max-width: 1920px) {
+    #wrap {
+		width: 65vw;
+    }
+
+	.header {
+		width: 65vw;
+	}
+}

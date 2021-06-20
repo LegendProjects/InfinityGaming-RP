@@ -1,0 +1,3656 @@
+[
+    {
+        "can_remove": true,
+        "name": "maple_logs",
+        "rare": false,
+        "weight": 480,
+        "label": "Maple logs"
+    },
+    {
+        "can_remove": true,
+        "name": "oak_logs",
+        "rare": false,
+        "weight": 480,
+        "label": "Oak logs"
+    },
+    {
+        "can_remove": true,
+        "name": "willow_logs",
+        "rare": false,
+        "weight": 480,
+        "label": "Willow logs"
+    },
+    {
+        "can_remove": true,
+        "name": "yew_logs",
+        "rare": false,
+        "weight": 480,
+        "label": "Yew logs"
+    },
+    {
+        "can_remove": true,
+        "name": "adrenaline",
+        "rare": false,
+        "weight": 350,
+        "label": "Adrenaline"
+    },
+    {
+        "can_remove": true,
+        "name": "alive_chicken",
+        "rare": false,
+        "weight": 1,
+        "label": "Chicken (Alive)"
+    },
+    {
+        "can_remove": true,
+        "name": "armour1",
+        "rare": false,
+        "weight": 1500,
+        "label": "Light Ballistic Vest"
+    },
+    {
+        "can_remove": true,
+        "name": "armour2",
+        "rare": false,
+        "weight": 2500,
+        "label": "Medium Ballistic Vest"
+    },
+    {
+        "can_remove": true,
+        "name": "armour3",
+        "rare": false,
+        "weight": 3500,
+        "label": "Heavy Ballistic Vest"
+    },
+    {
+        "can_remove": true,
+        "name": "bagofdope",
+        "rare": false,
+        "weight": 75,
+        "label": "Bag of Dope"
+    },
+    {
+        "can_remove": true,
+        "name": "bandage",
+        "rare": false,
+        "weight": 350,
+        "label": "Bandage"
+    },
+    {
+        "can_remove": true,
+        "name": "beer",
+        "rare": false,
+        "weight": 75,
+        "label": "Beer"
+    },
+    {
+        "can_remove": true,
+        "name": "binoculars",
+        "rare": false,
+        "weight": 75,
+        "label": "Binoculars"
+    },
+    {
+        "can_remove": true,
+        "name": "bloodymary",
+        "rare": false,
+        "weight": 75,
+        "label": "Bloody Mary (Cocktail)"
+    },
+    {
+        "can_remove": true,
+        "name": "blowtorch",
+        "rare": false,
+        "weight": 750,
+        "label": "Blowtorch"
+    },
+    {
+        "can_remove": true,
+        "name": "bodycam",
+        "rare": false,
+        "weight": 75,
+        "label": "Body Camera"
+    },
+    {
+        "can_remove": true,
+        "name": "bread",
+        "rare": false,
+        "weight": 75,
+        "label": "Bread"
+    },
+    {
+        "can_remove": true,
+        "name": "bricked_cocaine",
+        "rare": false,
+        "weight": 100,
+        "label": "Cocaine Brick (100G)"
+    },
+    {
+        "can_remove": true,
+        "name": "c4_bank",
+        "rare": false,
+        "weight": 1750,
+        "label": "C4"
+    },
+    {
+        "can_remove": true,
+        "name": "cannabis",
+        "rare": false,
+        "weight": 1,
+        "label": "Cannabis"
+    },
+    {
+        "can_remove": true,
+        "name": "clothe",
+        "rare": false,
+        "weight": 1,
+        "label": "Cloth"
+    },
+    {
+        "can_remove": true,
+        "name": "coca_leaves",
+        "rare": false,
+        "weight": 95,
+        "label": "Coca Leaves"
+    },
+    {
+        "can_remove": true,
+        "name": "coke10g",
+        "rare": false,
+        "weight": 10,
+        "label": "Cocaine (10G)"
+    },
+    {
+        "can_remove": true,
+        "name": "coke1g",
+        "rare": false,
+        "weight": 1,
+        "label": "Cocaine (1G)"
+    },
+    {
+        "can_remove": true,
+        "name": "cokebrick",
+        "rare": false,
+        "weight": 100,
+        "label": "Cocaine Brick (100G)"
+    },
+    {
+        "can_remove": true,
+        "name": "cokeburn",
+        "rare": false,
+        "weight": 75,
+        "label": "White USB-C"
+    },
+    {
+        "can_remove": true,
+        "name": "corona",
+        "rare": false,
+        "weight": 75,
+        "label": "Corona"
+    },
+    {
+        "can_remove": true,
+        "name": "crystal_meth",
+        "rare": false,
+        "weight": 250,
+        "label": "Crystal Meth"
+    },
+    {
+        "can_remove": true,
+        "name": "crystalised_iodine",
+        "rare": false,
+        "weight": 300,
+        "label": "Crystalised Iodine"
+    },
+    {
+        "can_remove": true,
+        "name": "cuff_keys",
+        "rare": false,
+        "weight": 95,
+        "label": "Handcuff Keys"
+    },
+    {
+        "can_remove": true,
+        "name": "cuffs",
+        "rare": false,
+        "weight": 240,
+        "label": "Handcuffs"
+    },
+    {
+        "can_remove": true,
+        "name": "cup_of_milk",
+        "rare": false,
+        "weight": 75,
+        "label": "Cup of milk"
+    },
+    {
+        "can_remove": true,
+        "name": "cupcake",
+        "rare": false,
+        "weight": 75,
+        "label": "Cupcake"
+    },
+    {
+        "can_remove": true,
+        "name": "cutted_wood",
+        "rare": false,
+        "weight": 75,
+        "label": "Cut Wood"
+    },
+    {
+        "can_remove": true,
+        "name": "donut",
+        "rare": false,
+        "weight": 75,
+        "label": "Donut"
+    },
+    {
+        "can_remove": true,
+        "name": "ziplock_bag",
+        "rare": false,
+        "weight": 240,
+        "label": "Ziplock Bag"
+    },
+    {
+        "can_remove": true,
+        "name": "dried_leaves",
+        "rare": false,
+        "weight": 240,
+        "label": "Dried Leaves"
+    },
+    {
+        "can_remove": true,
+        "name": "drugbags",
+        "rare": false,
+        "weight": 240,
+        "label": "Bags"
+    },
+    {
+        "can_remove": true,
+        "name": "drugscales",
+        "rare": false,
+        "weight": 240,
+        "label": "Scales"
+    },
+    {
+        "can_remove": true,
+        "name": "dry_cannabis",
+        "rare": false,
+        "weight": 240,
+        "label": "Dry Cannabis"
+    },
+    {
+        "can_remove": true,
+        "name": "dryed_poppy_leaves",
+        "rare": false,
+        "weight": 240,
+        "label": "Dryed Poppy Leaves"
+    },
+    {
+        "can_remove": true,
+        "name": "eschscholzia_poppy",
+        "rare": false,
+        "weight": 240,
+        "label": "Eschscholzia Poppy"
+    },
+    {
+        "can_remove": true,
+        "name": "ethanol",
+        "rare": false,
+        "weight": 1750,
+        "label": "Ethanol"
+    },
+    {
+        "can_remove": true,
+        "name": "fabric",
+        "rare": false,
+        "weight": 1,
+        "label": "Fabric"
+    },
+    {
+        "can_remove": true,
+        "name": "firstaid",
+        "rare": false,
+        "weight": 1250,
+        "label": "First-Aid Kit"
+    },
+    {
+        "can_remove": true,
+        "name": "flashlight",
+        "rare": false,
+        "weight": 1,
+        "label": "Flashlight (Attachment)"
+    },
+    {
+        "can_remove": true,
+        "name": "gauze",
+        "rare": false,
+        "weight": 750,
+        "label": "Gauze"
+    },
+    {
+        "can_remove": true,
+        "name": "gold",
+        "rare": false,
+        "weight": 500,
+        "label": "Gold"
+    },
+    {
+        "can_remove": true,
+        "name": "goldbar",
+        "rare": false,
+        "weight": 500,
+        "label": "Gold Bar"
+    },
+    {
+        "can_remove": true,
+        "name": "goldchain",
+        "rare": false,
+        "weight": 500,
+        "label": "Gold Chain"
+    },
+    {
+        "can_remove": true,
+        "name": "goldring",
+        "rare": false,
+        "weight": 500,
+        "label": "Gold Ring"
+    },
+    {
+        "can_remove": true,
+        "name": "goldwatch",
+        "rare": false,
+        "weight": 500,
+        "label": "Gold Watch"
+    },
+    {
+        "can_remove": true,
+        "name": "grinded_eschscholzia_poppy",
+        "rare": false,
+        "weight": 1,
+        "label": "grinded_eschscholzia_poppy"
+    },
+    {
+        "can_remove": true,
+        "name": "high_tier_diamond",
+        "rare": false,
+        "weight": 500,
+        "label": "1.41CT Cut Diamond"
+    },
+    {
+        "can_remove": true,
+        "name": "high_tier_goldbar",
+        "rare": false,
+        "weight": 500,
+        "label": "250g Gold Bullion"
+    },
+    {
+        "can_remove": true,
+        "name": "highgradefemaleseed",
+        "rare": false,
+        "weight": 1,
+        "label": "Female Dope Seed+"
+    },
+    {
+        "can_remove": true,
+        "name": "highgradefert",
+        "rare": false,
+        "weight": 1,
+        "label": "High-Grade Fertilizer"
+    },
+    {
+        "can_remove": true,
+        "name": "highgrademaleseed",
+        "rare": false,
+        "weight": 1,
+        "label": "Male Dope Seed+"
+    },
+    {
+        "can_remove": true,
+        "name": "hqscale",
+        "rare": false,
+        "weight": 240,
+        "label": "High Quality Scale"
+    },
+    {
+        "can_remove": true,
+        "name": "hydrochloric_acid",
+        "rare": false,
+        "weight": 200,
+        "label": "Hydrochloric Acid"
+    },
+    {
+        "can_remove": true,
+        "name": "hydrocodone",
+        "rare": false,
+        "weight": 750,
+        "label": "Hydrocodone"
+    },
+    {
+        "can_remove": true,
+        "name": "idcard",
+        "rare": false,
+        "weight": 1,
+        "label": "Identification Card"
+    },
+    {
+        "can_remove": true,
+        "name": "jackdaniels",
+        "rare": false,
+        "weight": 75,
+        "label": "Jack Daniel's Whisky"
+    },
+    {
+        "can_remove": true,
+        "name": "jameson",
+        "rare": false,
+        "weight": 75,
+        "label": "Jameson Irish Whisky"
+    },
+    {
+        "can_remove": true,
+        "name": "jimbean",
+        "rare": false,
+        "weight": 75,
+        "label": "Jim Bean Cola"
+    },
+    {
+        "can_remove": true,
+        "name": "keycard_black",
+        "rare": false,
+        "weight": 1,
+        "label": "Access keycard (level 4)"
+    },
+    {
+        "can_remove": true,
+        "name": "keycard_blue",
+        "rare": false,
+        "weight": 1,
+        "label": "Access keycard (level 2)"
+    },
+    {
+        "can_remove": true,
+        "name": "keycard_gold",
+        "rare": false,
+        "weight": 1,
+        "label": "Access keycard (Level 5)"
+    },
+    {
+        "can_remove": true,
+        "name": "keycard_green",
+        "rare": false,
+        "weight": 1,
+        "label": "Access keycard (level 1)"
+    },
+    {
+        "can_remove": true,
+        "name": "keycard_red",
+        "rare": false,
+        "weight": 1,
+        "label": "Access keycard (level 3)"
+    },
+    {
+        "can_remove": true,
+        "name": "liquid_iodine",
+        "rare": false,
+        "weight": 100,
+        "label": "Liquid Iodine"
+    },
+    {
+        "can_remove": true,
+        "name": "lockpick",
+        "rare": false,
+        "weight": 240,
+        "label": "Lock pick (Basic)"
+    },
+    {
+        "can_remove": true,
+        "name": "low_tier_diamond",
+        "rare": false,
+        "weight": 500,
+        "label": "0.54CT Cut Diamond"
+    },
+    {
+        "can_remove": true,
+        "name": "low_tier_goldbar",
+        "rare": false,
+        "weight": 500,
+        "label": "50g Gold Bullion"
+    },
+    {
+        "can_remove": true,
+        "name": "lowgradefemaleseed",
+        "rare": false,
+        "weight": 1,
+        "label": "Female Dope Seed"
+    },
+    {
+        "can_remove": true,
+        "name": "lowgradefert",
+        "rare": false,
+        "weight": 1,
+        "label": "Low-Grade Fertilizer"
+    },
+    {
+        "can_remove": true,
+        "name": "lowgrademaleseed",
+        "rare": false,
+        "weight": 1,
+        "label": "Male Dope Seed"
+    },
+    {
+        "can_remove": true,
+        "name": "lsd",
+        "rare": false,
+        "weight": 480,
+        "label": "LSD"
+    },
+    {
+        "can_remove": true,
+        "name": "lysergicacid",
+        "rare": false,
+        "weight": 1250,
+        "label": "Lysergic Acid"
+    },
+    {
+        "can_remove": true,
+        "name": "lysis",
+        "rare": false,
+        "weight": 480,
+        "label": "Extracted Lysis"
+    },
+    {
+        "can_remove": true,
+        "name": "medium_tier_diamond",
+        "rare": false,
+        "weight": 480,
+        "label": "0.89CT Cut Diamond"
+    },
+    {
+        "can_remove": true,
+        "name": "medium_tier_goldbar",
+        "rare": false,
+        "weight": 480,
+        "label": "5oz Gold Bullion"
+    },
+    {
+        "can_remove": true,
+        "name": "medkit",
+        "rare": false,
+        "weight": 750,
+        "label": "Medkit"
+    },
+    {
+        "can_remove": true,
+        "name": "meth10g",
+        "rare": false,
+        "weight": 10,
+        "label": "Meth (10G)"
+    },
+    {
+        "can_remove": true,
+        "name": "meth1g",
+        "rare": false,
+        "weight": 1,
+        "label": "Meth (1G)"
+    },
+    {
+        "can_remove": true,
+        "name": "methbrick",
+        "rare": false,
+        "weight": 100,
+        "label": "Meth Brick (100G)"
+    },
+    {
+        "can_remove": true,
+        "name": "methburn",
+        "rare": false,
+        "weight": 240,
+        "label": "Blue USB-C"
+    },
+    {
+        "can_remove": true,
+        "name": "mixed_cocaine",
+        "rare": false,
+        "weight": 850,
+        "label": "Mixed Cocaine"
+    },
+    {
+        "can_remove": true,
+        "name": "morninggloryseeds",
+        "rare": false,
+        "weight": 275,
+        "label": "Morning Glory Seeds"
+    },
+    {
+        "can_remove": true,
+        "name": "morphine",
+        "rare": false,
+        "weight": 500,
+        "label": "Morphine"
+    },
+    {
+        "can_remove": true,
+        "name": "opium",
+        "rare": false,
+        "weight": 850,
+        "label": "Opium"
+    },
+    {
+        "can_remove": true,
+        "name": "oxy",
+        "rare": false,
+        "weight": 480,
+        "label": "Oxy"
+    },
+    {
+        "can_remove": true,
+        "name": "pacificidcard",
+        "rare": false,
+        "weight": 1,
+        "label": "Pacific ID"
+    },
+    {
+        "can_remove": true,
+        "name": "packaged_cannabis",
+        "rare": false,
+        "weight": 1,
+        "label": "Packaged Cannabis"
+    },
+    {
+        "can_remove": true,
+        "name": "packaged_chicken",
+        "rare": false,
+        "weight": 1,
+        "label": "Packaged Chicken"
+    },
+    {
+        "can_remove": true,
+        "name": "packaged_plank",
+        "rare": false,
+        "weight": 1,
+        "label": "Packaged Planks"
+    },
+    {
+        "can_remove": true,
+        "name": "phone",
+        "rare": false,
+        "weight": 240,
+        "label": "Phone"
+    },
+    {
+        "can_remove": true,
+        "name": "pickaxe",
+        "rare": false,
+        "weight": 1,
+        "label": "Pick-axe"
+    },
+    {
+        "can_remove": true,
+        "name": "plantpot",
+        "rare": false,
+        "weight": 1,
+        "label": "Plant Pot"
+    },
+    {
+        "can_remove": true,
+        "name": "playersafe",
+        "rare": false,
+        "weight": 1,
+        "label": "Player Safe"
+    },
+    {
+        "can_remove": true,
+        "name": "poolreceipt",
+        "rare": false,
+        "weight": 125,
+        "label": "Receipt"
+    },
+    {
+        "can_remove": true,
+        "name": "purifiedwater",
+        "rare": false,
+        "weight": 4000,
+        "label": "Purified Water"
+    },
+    {
+        "can_remove": true,
+        "name": "raspberry",
+        "rare": false,
+        "weight": 950,
+        "label": "Raspberry Pi"
+    },
+    {
+        "can_remove": true,
+        "name": "red_phosphorus",
+        "rare": false,
+        "weight": 300,
+        "label": "Red Phosphorus"
+    },
+    {
+        "can_remove": true,
+        "name": "sandwich",
+        "rare": false,
+        "weight": 75,
+        "label": "Sandwich"
+    },
+    {
+        "can_remove": true,
+        "name": "slaughtered_chicken",
+        "rare": false,
+        "weight": 75,
+        "label": "Chicken (Butchered)"
+    },
+    {
+        "can_remove": true,
+        "name": "smirnoff",
+        "rare": false,
+        "weight": 75,
+        "label": "Smirnoff "
+    },
+    {
+        "can_remove": true,
+        "name": "sodium_hydroxide",
+        "rare": false,
+        "weight": 1250,
+        "label": "Sodium Hydroxide"
+    },
+    {
+        "can_remove": true,
+        "name": "solvent",
+        "rare": false,
+        "weight": 1000,
+        "label": "Solvent"
+    },
+    {
+        "can_remove": true,
+        "name": "stone",
+        "rare": false,
+        "weight": 1,
+        "label": "Stone"
+    },
+    {
+        "can_remove": true,
+        "name": "strained_leaves",
+        "rare": false,
+        "weight": 240,
+        "label": "Strained Leaves"
+    },
+    {
+        "can_remove": true,
+        "name": "sulfuric_acid",
+        "rare": false,
+        "weight": 200,
+        "label": "Sulfuric Acid"
+    },
+    {
+        "can_remove": true,
+        "name": "tequila",
+        "rare": false,
+        "weight": 75,
+        "label": "Tequila"
+    },
+    {
+        "can_remove": true,
+        "name": "trimmed_cannabis",
+        "rare": false,
+        "weight": 1,
+        "label": "Trimmed Cannabis"
+    },
+    {
+        "can_remove": true,
+        "name": "trimmed_marijuana",
+        "rare": false,
+        "weight": 1,
+        "label": "Packaged Weed"
+    },
+    {
+        "can_remove": true,
+        "name": "trimmedweed",
+        "rare": false,
+        "weight": 1,
+        "label": "Trimmed Weed"
+    },
+    {
+        "can_remove": true,
+        "name": "ultra_tier_diamond",
+        "rare": false,
+        "weight": 480,
+        "label": "4.58CT Cut Diamond"
+    },
+    {
+        "can_remove": true,
+        "name": "ultra_tier_goldbar",
+        "rare": false,
+        "weight": 1000,
+        "label": "1kg Gold Bullion"
+    },
+    {
+        "can_remove": true,
+        "name": "veryhigh_tier_diamond",
+        "rare": false,
+        "weight": 480,
+        "label": "1.91CT Cut Diamond"
+    },
+    {
+        "can_remove": true,
+        "name": "veryhigh_tier_goldbar",
+        "rare": false,
+        "weight": 480,
+        "label": "20oz Gold Bullion"
+    },
+    {
+        "can_remove": true,
+        "name": "verylow_tier_diamond",
+        "rare": false,
+        "weight": 480,
+        "label": "0.31CT Cut Diamond"
+    },
+    {
+        "can_remove": true,
+        "name": "verylow_tier_goldbar",
+        "rare": false,
+        "weight": 480,
+        "label": "1oz Gold Bullion"
+    },
+    {
+        "can_remove": true,
+        "name": "vicodin",
+        "rare": false,
+        "weight": 75,
+        "label": "Vicodin"
+    },
+    {
+        "can_remove": true,
+        "name": "victoriabitter",
+        "rare": false,
+        "weight": 75,
+        "label": "VB Long Neck"
+    },
+    {
+        "can_remove": true,
+        "name": "vodka",
+        "rare": false,
+        "weight": 75,
+        "label": "Vodka"
+    },
+    {
+        "can_remove": true,
+        "name": "water",
+        "rare": false,
+        "weight": 75,
+        "label": "Water"
+    },
+    {
+        "can_remove": true,
+        "name": "wateringcan",
+        "rare": false,
+        "weight": 1250,
+        "label": "Watering Can"
+    },
+    {
+        "can_remove": true,
+        "name": "weed20g",
+        "rare": false,
+        "weight": 20,
+        "label": "Weed (20G)"
+    },
+    {
+        "can_remove": true,
+        "name": "weed4g",
+        "rare": false,
+        "weight": 4,
+        "label": "Weed (4G)"
+    },
+    {
+        "can_remove": true,
+        "name": "weedbrick",
+        "rare": false,
+        "weight": 200,
+        "label": "Weed Brick (200G)"
+    },
+    {
+        "can_remove": true,
+        "name": "weedburn",
+        "rare": false,
+        "weight": 240,
+        "label": "Green USB-C"
+    },
+    {
+        "can_remove": true,
+        "name": "whisky",
+        "rare": false,
+        "weight": 75,
+        "label": "Whisky"
+    },
+    {
+        "can_remove": true,
+        "name": "wine",
+        "rare": false,
+        "weight": 75,
+        "label": "Wine"
+    },
+    {
+        "can_remove": true,
+        "name": "zipties",
+        "rare": false,
+        "weight": 75,
+        "label": "Zipties"
+    },
+    {
+        "can_remove": true,
+        "name": "gold_bracelet",
+        "rare": false,
+        "weight": 480,
+        "label": "Gold Bracelet"
+    },
+    {
+        "can_remove": true,
+        "name": "gold_charm",
+        "rare": false,
+        "weight": 480,
+        "label": "Gold Charm"
+    },
+    {
+        "can_remove": true,
+        "name": "low_tier_earrings",
+        "rare": false,
+        "weight": 480,
+        "label": "Basic Diamond Studs"
+    },
+    {
+        "can_remove": true,
+        "name": "medium_tier_earrings",
+        "rare": false,
+        "weight": 480,
+        "label": "Diamond Droplet Earrings"
+    },
+    {
+        "can_remove": true,
+        "name": "high_tier_earrings",
+        "rare": false,
+        "weight": 480,
+        "label": "Elegant Diamond Earrings"
+    },
+    {
+        "can_remove": true,
+        "name": "low_tier_pendant",
+        "rare": false,
+        "weight": 480,
+        "label": "Basic Diamond Pendant"
+    },
+    {
+        "can_remove": true,
+        "name": "medium_tier_pendant",
+        "rare": false,
+        "weight": 480,
+        "label": "Diamond Encrusted Pendant"
+    },
+    {
+        "can_remove": true,
+        "name": "high_tier_pendant",
+        "rare": false,
+        "weight": 480,
+        "label": "Glorious Royal Neck-piece"
+    },
+    {
+        "can_remove": true,
+        "name": "low_tier_ring",
+        "rare": false,
+        "weight": 480,
+        "label": "Common Promise Rings"
+    },
+    {
+        "can_remove": true,
+        "name": "medium_tier_ring",
+        "rare": false,
+        "weight": 480,
+        "label": "Diamond Engagement Ring"
+    },
+    {
+        "can_remove": true,
+        "name": "high_tier_ring",
+        "rare": false,
+        "weight": 480,
+        "label": "Tiffany Co. Wedding Ring"
+    },
+    {
+        "can_remove": true,
+        "name": "low_tier_rolex",
+        "rare": false,
+        "weight": 480,
+        "label": "Silver Rolex Watch"
+    },
+    {
+        "can_remove": true,
+        "name": "medium_tier_rolex",
+        "rare": false,
+        "weight": 480,
+        "label": "Gold Daytona Rolex"
+    },
+    {
+        "can_remove": true,
+        "name": "high_tier_rolex",
+        "rare": false,
+        "weight": 480,
+        "label": "Diamond Encrusted Datejust Rolex"
+    },
+    {
+        "can_remove": true,
+        "name": "repairkit_engine",
+        "rare": false,
+        "weight": 850,
+        "label": "Engine Repair Kit"
+    },
+    {
+        "can_remove": true,
+        "name": "repairkit_bodywork",
+        "rare": false,
+        "weight": 650,
+        "label": "Bodywork Repair Kit"
+    },
+    {
+        "can_remove": true,
+        "name": "carcleaner",
+        "rare": false,
+        "weight": 1250,
+        "label": "Car Cleaning Kit"
+    },
+    {
+        "can_remove": true,
+        "name": "cocacola",
+        "rare": false,
+        "weight": 75,
+        "label": "Coca Cola"
+    },
+    {
+        "can_remove": true,
+        "name": "pizza",
+        "rare": false,
+        "weight": 75,
+        "label": "Kebab Pizza"
+    },
+    {
+        "can_remove": true,
+        "name": "burger",
+        "rare": false,
+        "weight": 75,
+        "label": "Bacon Burger"
+    },
+    {
+        "can_remove": true,
+        "name": "scrap",
+        "rare": false,
+        "weight": 1000,
+        "label": "Scrap"
+    },
+    {
+        "can_remove": true,
+        "name": "tin_ore",
+        "rare": false,
+        "weight": 480,
+        "label": "Tin Ore"
+    },
+    {
+        "can_remove": true,
+        "name": "copper_ore",
+        "rare": false,
+        "weight": 480,
+        "label": "Copper Ore"
+    },
+    {
+        "can_remove": true,
+        "name": "iron_ore",
+        "rare": false,
+        "weight": 480,
+        "label": "Iron Ore"
+    },
+    {
+        "can_remove": true,
+        "name": "silver_ore",
+        "rare": false,
+        "weight": 480,
+        "label": "Silver Ore"
+    },
+    {
+        "can_remove": true,
+        "name": "gold_ore",
+        "rare": false,
+        "weight": 480,
+        "label": "Gold Ore"
+    },
+    {
+        "can_remove": true,
+        "name": "mithril_ore",
+        "rare": false,
+        "weight": 480,
+        "label": "Mithril Ore"
+    },
+    {
+        "can_remove": true,
+        "name": "coal_ore",
+        "rare": false,
+        "weight": 480,
+        "label": "Coal Ore"
+    },
+    {
+        "can_remove": true,
+        "name": "adamantite_ore",
+        "rare": false,
+        "weight": 480,
+        "label": "Adamantite Ore"
+    },
+    {
+        "can_remove": true,
+        "name": "luminite",
+        "rare": false,
+        "weight": 480,
+        "label": "Luminite"
+    },
+    {
+        "can_remove": true,
+        "name": "runite_ore",
+        "rare": false,
+        "weight": 480,
+        "label": "Runite Ore"
+    },
+    {
+        "can_remove": true,
+        "name": "bronze_bar",
+        "rare": false,
+        "weight": 480,
+        "label": "Bronze Bar"
+    },
+    {
+        "can_remove": true,
+        "name": "iron_bar",
+        "rare": false,
+        "weight": 480,
+        "label": "Iron Bar"
+    },
+    {
+        "can_remove": true,
+        "name": "silver_bar",
+        "rare": false,
+        "weight": 480,
+        "label": "Silver Bar"
+    },
+    {
+        "can_remove": true,
+        "name": "mithril_bar",
+        "rare": false,
+        "weight": 480,
+        "label": "Mithril Bar"
+    },
+    {
+        "can_remove": true,
+        "name": "adamant_bar",
+        "rare": false,
+        "weight": 480,
+        "label": "Adamant Bar"
+    },
+    {
+        "can_remove": true,
+        "name": "rune_bar",
+        "rare": false,
+        "weight": 480,
+        "label": "Rune Bar"
+    },
+    {
+        "can_remove": true,
+        "name": "gold_bar",
+        "rare": false,
+        "weight": 480,
+        "label": "Gold Bar"
+    },
+    {
+        "can_remove": true,
+        "name": "steel_bar",
+        "rare": false,
+        "weight": 480,
+        "label": "Steel Bar"
+    },
+    {
+        "can_remove": true,
+        "name": "advancedrifle",
+        "rare": false,
+        "weight": 12500,
+        "label": "EF88 Austeyr"
+    },
+    {
+        "can_remove": true,
+        "name": "assaultrifle",
+        "rare": false,
+        "weight": 12500,
+        "label": "Norinco Type 56-2"
+    },
+    {
+        "can_remove": true,
+        "name": "bullpuprifle",
+        "rare": false,
+        "weight": 12500,
+        "label": "Norinco QBZ-95-1"
+    },
+    {
+        "can_remove": true,
+        "name": "carbinerifle",
+        "rare": false,
+        "weight": 12500,
+        "label": "Mk 18 Mod 0"
+    },
+    {
+        "can_remove": true,
+        "name": "combatpdw",
+        "rare": false,
+        "weight": 3500,
+        "label": "SIG-Sauer MPX-SD"
+    },
+    {
+        "can_remove": true,
+        "name": "combatpistol",
+        "rare": false,
+        "weight": 1250,
+        "label": "Glock-17"
+    },
+    {
+        "can_remove": true,
+        "name": "compactrifle",
+        "rare": false,
+        "weight": 3500,
+        "label": "Draco AK-47"
+    },
+    {
+        "can_remove": true,
+        "name": "dbshotgun",
+        "rare": false,
+        "weight": 3500,
+        "label": "Sawed-Off Double Barrel Shotgun"
+    },
+    {
+        "can_remove": true,
+        "name": "doubleaction",
+        "rare": false,
+        "weight": 1250,
+        "label": "Colt New Army & Navy"
+    },
+    {
+        "can_remove": true,
+        "name": "gusenberg",
+        "rare": false,
+        "weight": 3500,
+        "label": "Thompson M1928A1"
+    },
+    {
+        "can_remove": true,
+        "name": "machinepistol",
+        "rare": false,
+        "weight": 1250,
+        "label": "Intratec TEC-DC9"
+    },
+    {
+        "can_remove": true,
+        "name": "marksmanpistol",
+        "rare": false,
+        "weight": 1250,
+        "label": "Thompson Center Arms Contender"
+    },
+    {
+        "can_remove": true,
+        "name": "microsmg",
+        "rare": false,
+        "weight": 3500,
+        "label": "IMI Mini Uzi"
+    },
+    {
+        "can_remove": true,
+        "name": "minismg",
+        "rare": false,
+        "weight": 1250,
+        "label": "Sa. Vz. 82 Skorpion"
+    },
+    {
+        "can_remove": true,
+        "name": "uncut_opal",
+        "rare": false,
+        "weight": 240,
+        "label": "Uncut opal"
+    },
+    {
+        "can_remove": true,
+        "name": "uncut_jade",
+        "rare": false,
+        "weight": 240,
+        "label": "Uncut jade"
+    },
+    {
+        "can_remove": true,
+        "name": "uncut_redtopaz",
+        "rare": false,
+        "weight": 240,
+        "label": "Uncut red topaz"
+    },
+    {
+        "can_remove": true,
+        "name": "uncut_sapphire",
+        "rare": false,
+        "weight": 240,
+        "label": "Uncut sapphire"
+    },
+    {
+        "can_remove": true,
+        "name": "uncut_emerald",
+        "rare": false,
+        "weight": 240,
+        "label": "Uncut emerald"
+    },
+    {
+        "can_remove": true,
+        "name": "uncut_ruby",
+        "rare": false,
+        "weight": 240,
+        "label": "Uncut ruby"
+    },
+    {
+        "can_remove": true,
+        "name": "uncut_diamond",
+        "rare": false,
+        "weight": 240,
+        "label": "Uncut diamond"
+    },
+    {
+        "can_remove": true,
+        "name": "opal",
+        "rare": false,
+        "weight": 240,
+        "label": "Opal"
+    },
+    {
+        "can_remove": true,
+        "name": "jade",
+        "rare": false,
+        "weight": 240,
+        "label": "Jade"
+    },
+    {
+        "can_remove": true,
+        "name": "redtopaz",
+        "rare": false,
+        "weight": 240,
+        "label": "Red Topaz"
+    },
+    {
+        "can_remove": true,
+        "name": "sapphire",
+        "rare": false,
+        "weight": 240,
+        "label": "Sapphire"
+    },
+    {
+        "can_remove": true,
+        "name": "emerald",
+        "rare": false,
+        "weight": 240,
+        "label": "Emerald"
+    },
+    {
+        "can_remove": true,
+        "name": "ruby",
+        "rare": false,
+        "weight": 240,
+        "label": "Ruby"
+    },
+    {
+        "can_remove": true,
+        "name": "diamond",
+        "rare": false,
+        "weight": 240,
+        "label": "Diamond"
+    },
+    {
+        "can_remove": true,
+        "name": "chisel",
+        "rare": false,
+        "weight": 240,
+        "label": "Chisel"
+    },
+    {
+        "can_remove": true,
+        "name": "assaultshotgun",
+        "rare": false,
+        "weight": 6500,
+        "label": "UTAS UTS-15"
+    },
+    {
+        "can_remove": true,
+        "name": "assaultsmg",
+        "rare": false,
+        "weight": 3500,
+        "label": "Magpul PDR-C "
+    },
+    {
+        "can_remove": true,
+        "name": "battleaxe",
+        "rare": false,
+        "weight": 240,
+        "label": "Pickaxe"
+    },
+    {
+        "can_remove": true,
+        "name": "combatmg",
+        "rare": false,
+        "weight": 17500,
+        "label": "FN Mk 48 Mod 1 "
+    },
+    {
+        "can_remove": true,
+        "name": "bzgas",
+        "rare": false,
+        "weight": 800,
+        "label": "BZ Gas"
+    },
+    {
+        "can_remove": true,
+        "name": "crowbar",
+        "rare": false,
+        "weight": 240,
+        "label": "Crowbar"
+    },
+    {
+        "can_remove": true,
+        "name": "dagger",
+        "rare": false,
+        "weight": 240,
+        "label": "Dagger"
+    },
+    {
+        "can_remove": true,
+        "name": "fireextinguisher",
+        "rare": false,
+        "weight": 240,
+        "label": "Fire Extinguisher"
+    },
+    {
+        "can_remove": true,
+        "name": "flaregun",
+        "rare": false,
+        "weight": 1250,
+        "label": "Orion Flare Gun"
+    },
+    {
+        "can_remove": true,
+        "name": "golfclub",
+        "rare": false,
+        "weight": 250,
+        "label": "Golf Club"
+    },
+    {
+        "can_remove": true,
+        "name": "grenade",
+        "rare": false,
+        "weight": 800,
+        "label": "M61 Hand Grenade"
+    },
+    {
+        "can_remove": true,
+        "name": "hatchet",
+        "rare": false,
+        "weight": 240,
+        "label": "Hatchet"
+    },
+    {
+        "can_remove": true,
+        "name": "heavypistol",
+        "rare": false,
+        "weight": 1250,
+        "label": "1911"
+    },
+    {
+        "can_remove": true,
+        "name": "heavyshotgun",
+        "rare": false,
+        "weight": 6500,
+        "label": "Saiga 12"
+    },
+    {
+        "can_remove": true,
+        "name": "heavysniper",
+        "rare": false,
+        "weight": 17500,
+        "label": "Barrett M107"
+    },
+    {
+        "can_remove": true,
+        "name": "knife",
+        "rare": false,
+        "weight": 240,
+        "label": "Knife"
+    },
+    {
+        "can_remove": true,
+        "name": "knuckle",
+        "rare": false,
+        "weight": 240,
+        "label": "Knuckle Dusters "
+    },
+    {
+        "can_remove": true,
+        "name": "machete",
+        "rare": false,
+        "weight": 240,
+        "label": "Machete"
+    },
+    {
+        "can_remove": true,
+        "name": "marksmanrifle",
+        "rare": false,
+        "weight": 13500,
+        "label": "Ruger Mini-30"
+    },
+    {
+        "can_remove": true,
+        "name": "molotov",
+        "rare": false,
+        "weight": 800,
+        "label": "Molotov Cocktail"
+    },
+    {
+        "can_remove": true,
+        "name": "musket",
+        "rare": false,
+        "weight": 6500,
+        "label": "M107 "
+    },
+    {
+        "can_remove": true,
+        "name": "nightstick",
+        "rare": false,
+        "weight": 240,
+        "label": "Police Baton"
+    },
+    {
+        "can_remove": true,
+        "name": "parachute",
+        "rare": false,
+        "weight": 1250,
+        "label": "Parachute"
+    },
+    {
+        "can_remove": true,
+        "name": "petrolcan",
+        "rare": false,
+        "weight": 0,
+        "label": "Petrol Can"
+    },
+    {
+        "can_remove": true,
+        "name": "pistol",
+        "rare": false,
+        "weight": 1250,
+        "label": "Taurus PT92AF"
+    },
+    {
+        "can_remove": true,
+        "name": "pistol50",
+        "rare": false,
+        "weight": 1250,
+        "label": "Desert Eagle"
+    },
+    {
+        "can_remove": true,
+        "name": "pistol_mk2",
+        "rare": false,
+        "weight": 1250,
+        "label": "PT92AF "
+    },
+    {
+        "can_remove": true,
+        "name": "pumpshotgun",
+        "rare": false,
+        "weight": 6500,
+        "label": "Mossberg 590"
+    },
+    {
+        "can_remove": true,
+        "name": "revolver",
+        "rare": false,
+        "weight": 1250,
+        "label": "Taurus Raging Bull"
+    },
+    {
+        "can_remove": true,
+        "name": "sawnoffshotgun",
+        "rare": false,
+        "weight": 3500,
+        "label": "Shortened Mossberg 500"
+    },
+    {
+        "can_remove": true,
+        "name": "smg",
+        "rare": false,
+        "weight": 3500,
+        "label": "Heckler & Koch MP5N"
+    },
+    {
+        "can_remove": true,
+        "name": "smokegrenade",
+        "rare": false,
+        "weight": 800,
+        "label": "M18 Smoke Grenade"
+    },
+    {
+        "can_remove": true,
+        "name": "sniperrifle",
+        "rare": false,
+        "weight": 17500,
+        "label": "AI AW-F"
+    },
+    {
+        "can_remove": true,
+        "name": "snspistol",
+        "rare": false,
+        "weight": 1250,
+        "label": "Heckler & Koch P7M10"
+    },
+    {
+        "can_remove": true,
+        "name": "snspistol_mk2",
+        "rare": false,
+        "weight": 1250,
+        "label": "SNS Pistol MK2"
+    },
+    {
+        "can_remove": true,
+        "name": "stungun",
+        "rare": false,
+        "weight": 1250,
+        "label": "Stinger S-200"
+    },
+    {
+        "can_remove": true,
+        "name": "bullpupshotgun",
+        "rare": false,
+        "weight": 6500,
+        "label": "Kel-Tec KSG"
+    },
+    {
+        "can_remove": true,
+        "name": "switchblade",
+        "rare": false,
+        "weight": 240,
+        "label": "Switch Blade"
+    },
+    {
+        "can_remove": true,
+        "name": "dirty",
+        "rare": false,
+        "weight": 6500,
+        "label": "Remington 870"
+    },
+    {
+        "can_remove": true,
+        "name": "vintagepistol",
+        "rare": false,
+        "weight": 1250,
+        "label": "FN Model 1922 "
+    },
+    {
+        "can_remove": true,
+        "name": "smg_mk2",
+        "rare": false,
+        "weight": 3500,
+        "label": "Heckler & Koch MP5K"
+    },
+    {
+        "can_remove": true,
+        "name": "bullpuprifle_mk2",
+        "rare": false,
+        "weight": 12500,
+        "label": "HS Produkt VHS-D2"
+    },
+    {
+        "can_remove": true,
+        "name": "specialcarbine",
+        "rare": false,
+        "weight": 12500,
+        "label": "Heckler & Koch G36C"
+    },
+    {
+        "can_remove": true,
+        "name": "assaultrifle_mk2",
+        "rare": false,
+        "weight": 12500,
+        "label": "Type 56-2"
+    },
+    {
+        "can_remove": true,
+        "name": "marksmanrifle_mk2",
+        "rare": false,
+        "weight": 13500,
+        "label": "Mk 14 Mod 1 EBR"
+    },
+    {
+        "can_remove": true,
+        "name": "heavysniper_mk2",
+        "rare": false,
+        "weight": 17500,
+        "label": "Serbu BFG-50A"
+    },
+    {
+        "can_remove": true,
+        "name": "combatmg_mk2",
+        "rare": false,
+        "weight": 17500,
+        "label": "M60E4"
+    },
+    {
+        "can_remove": true,
+        "name": "mg",
+        "rare": false,
+        "weight": 17500,
+        "label": "PKM"
+    },
+    {
+        "can_remove": true,
+        "name": "opal_ring",
+        "rare": false,
+        "weight": 240,
+        "label": "Opal ring"
+    },
+    {
+        "can_remove": true,
+        "name": "jade_ring",
+        "rare": false,
+        "weight": 240,
+        "label": "Jade ring"
+    },
+    {
+        "can_remove": true,
+        "name": "topaz_ring",
+        "rare": false,
+        "weight": 240,
+        "label": "Topaz ring"
+    },
+    {
+        "can_remove": true,
+        "name": "opal_necklace",
+        "rare": false,
+        "weight": 240,
+        "label": "Opal necklace"
+    },
+    {
+        "can_remove": true,
+        "name": "opal_bracelet",
+        "rare": false,
+        "weight": 240,
+        "label": "Opal bracelet"
+    },
+    {
+        "can_remove": true,
+        "name": "jade_necklace",
+        "rare": false,
+        "weight": 240,
+        "label": "Jade necklace"
+    },
+    {
+        "can_remove": true,
+        "name": "opal_amulet",
+        "rare": false,
+        "weight": 240,
+        "label": "Opal amulet"
+    },
+    {
+        "can_remove": true,
+        "name": "jade_bracelet",
+        "rare": false,
+        "weight": 240,
+        "label": "Jade bracelet"
+    },
+    {
+        "can_remove": true,
+        "name": "topaz_necklace",
+        "rare": false,
+        "weight": 240,
+        "label": "Topaz necklace"
+    },
+    {
+        "can_remove": true,
+        "name": "jade_amulet",
+        "rare": false,
+        "weight": 240,
+        "label": "Jade amulet"
+    },
+    {
+        "can_remove": true,
+        "name": "topaz_bracelet",
+        "rare": false,
+        "weight": 240,
+        "label": "Topaz bracelet"
+    },
+    {
+        "can_remove": true,
+        "name": "topaz_amulet",
+        "rare": false,
+        "weight": 240,
+        "label": "Topaz amulet"
+    },
+    {
+        "can_remove": true,
+        "name": "amulet_mould",
+        "rare": false,
+        "weight": 240,
+        "label": "Amulet mould"
+    },
+    {
+        "can_remove": true,
+        "name": "bracelet_mould",
+        "rare": false,
+        "weight": 240,
+        "label": "Bracelet mould"
+    },
+    {
+        "can_remove": true,
+        "name": "necklace_mould",
+        "rare": false,
+        "weight": 240,
+        "label": "Necklace mould"
+    },
+    {
+        "can_remove": true,
+        "name": "ring_mould",
+        "rare": false,
+        "weight": 240,
+        "label": "Ring mould"
+    },
+    {
+        "can_remove": true,
+        "name": "ammopistol",
+        "rare": false,
+        "weight": 75,
+        "label": "Pistol Ammo"
+    },
+    {
+        "can_remove": true,
+        "name": "ammosmg",
+        "rare": false,
+        "weight": 75,
+        "label": "SMG Ammo"
+    },
+    {
+        "can_remove": true,
+        "name": "ammoshotgun",
+        "rare": false,
+        "weight": 550,
+        "label": "Shotgun Ammo"
+    },
+    {
+        "can_remove": true,
+        "name": "ammorifle",
+        "rare": false,
+        "weight": 75,
+        "label": "Rifle Ammo"
+    },
+    {
+        "can_remove": true,
+        "name": "ammosnp",
+        "rare": false,
+        "weight": 550,
+        "label": "Sniper Ammo"
+    },
+    {
+        "can_remove": true,
+        "name": "advlockpick",
+        "rare": false,
+        "weight": 75,
+        "label": "Lock pick (Advanced)"
+    },
+    {
+        "can_remove": true,
+        "name": "shrimp",
+        "rare": false,
+        "weight": 240,
+        "label": "Raw shrimp"
+    },
+    {
+        "can_remove": true,
+        "name": "sardine",
+        "rare": false,
+        "weight": 240,
+        "label": "Raw sardine"
+    },
+    {
+        "can_remove": true,
+        "name": "anchovies",
+        "rare": false,
+        "weight": 240,
+        "label": "Raw anchovies"
+    },
+    {
+        "can_remove": true,
+        "name": "trout",
+        "rare": false,
+        "weight": 240,
+        "label": "Raw trout"
+    },
+    {
+        "can_remove": true,
+        "name": "salmon",
+        "rare": false,
+        "weight": 240,
+        "label": "Raw salmon"
+    },
+    {
+        "can_remove": true,
+        "name": "tuna",
+        "rare": false,
+        "weight": 240,
+        "label": "Raw tuna"
+    },
+    {
+        "can_remove": true,
+        "name": "lobster",
+        "rare": false,
+        "weight": 240,
+        "label": "Raw lobster"
+    },
+    {
+        "can_remove": true,
+        "name": "swordfish",
+        "rare": false,
+        "weight": 240,
+        "label": "Raw swordfish"
+    },
+    {
+        "can_remove": true,
+        "name": "monkfish",
+        "rare": false,
+        "weight": 240,
+        "label": "Raw monkfish"
+    },
+    {
+        "can_remove": true,
+        "name": "shark",
+        "rare": false,
+        "weight": 240,
+        "label": "Raw shark"
+    },
+    {
+        "can_remove": true,
+        "name": "anglerfish",
+        "rare": false,
+        "weight": 240,
+        "label": "Raw anglerfish"
+    },
+    {
+        "can_remove": true,
+        "name": "fishingnet",
+        "rare": false,
+        "weight": 240,
+        "label": "Small fishing net"
+    },
+    {
+        "can_remove": true,
+        "name": "fishingrod",
+        "rare": false,
+        "weight": 240,
+        "label": "Fishing rod"
+    },
+    {
+        "can_remove": true,
+        "name": "flyfishingrod",
+        "rare": false,
+        "weight": 240,
+        "label": "Fly fishing rod"
+    },
+    {
+        "can_remove": true,
+        "name": "bait",
+        "rare": false,
+        "weight": 240,
+        "label": "Fishing bait"
+    },
+    {
+        "can_remove": true,
+        "name": "lobsterpot",
+        "rare": false,
+        "weight": 240,
+        "label": "Lobster pot"
+    },
+    {
+        "can_remove": true,
+        "name": "harpoon",
+        "rare": false,
+        "weight": 240,
+        "label": "Harpoon"
+    },
+    {
+        "can_remove": true,
+        "name": "feather",
+        "rare": false,
+        "weight": 75,
+        "label": "Feather"
+    },
+    {
+        "can_remove": true,
+        "name": "sandworms",
+        "rare": false,
+        "weight": 25,
+        "label": "Sandworms"
+    },
+    {
+        "can_remove": true,
+        "name": "carbinerifle_mk2",
+        "rare": false,
+        "weight": 12500,
+        "label": "Sig MPX-C"
+    },
+    {
+        "can_remove": true,
+        "name": "specialcarbine_mk2",
+        "rare": false,
+        "weight": 12500,
+        "label": "HK G36C"
+    },
+    {
+        "can_remove": true,
+        "name": "teargas",
+        "rare": false,
+        "weight": 800,
+        "label": "Tear Gas"
+    },
+    {
+        "can_remove": true,
+        "name": "flashbang",
+        "rare": false,
+        "weight": 800,
+        "label": "Flashbang"
+    },
+    {
+        "can_remove": false,
+        "name": "xpbomb",
+        "rare": true,
+        "weight": 0,
+        "label": "Double Exp. Bomb"
+    },
+    {
+        "can_remove": true,
+        "name": "radio",
+        "rare": false,
+        "weight": 75,
+        "label": "Radio"
+    },
+    {
+        "can_remove": true,
+        "name": "bronze_axe",
+        "rare": false,
+        "weight": 240,
+        "label": "Bronze axe"
+    },
+    {
+        "can_remove": true,
+        "name": "bronze_nails",
+        "rare": false,
+        "weight": 240,
+        "label": "Bronze nails"
+    },
+    {
+        "can_remove": true,
+        "name": "bronze_chainbody",
+        "rare": false,
+        "weight": 240,
+        "label": "Bronze chainbody"
+    },
+    {
+        "can_remove": true,
+        "name": "bronze_platebody",
+        "rare": false,
+        "weight": 240,
+        "label": "Bronze platebody"
+    },
+    {
+        "can_remove": true,
+        "name": "iron_axe",
+        "rare": false,
+        "weight": 240,
+        "label": "Iron axe"
+    },
+    {
+        "can_remove": true,
+        "name": "iron_nails",
+        "rare": false,
+        "weight": 240,
+        "label": "Iron nails"
+    },
+    {
+        "can_remove": true,
+        "name": "iron_chainbody",
+        "rare": false,
+        "weight": 240,
+        "label": "Iron chainbody"
+    },
+    {
+        "can_remove": true,
+        "name": "iron_platebody",
+        "rare": false,
+        "weight": 240,
+        "label": "Iron platebody"
+    },
+    {
+        "can_remove": true,
+        "name": "steel_axe",
+        "rare": false,
+        "weight": 240,
+        "label": "Steel axe"
+    },
+    {
+        "can_remove": true,
+        "name": "steel_nails",
+        "rare": false,
+        "weight": 240,
+        "label": "Steel nails"
+    },
+    {
+        "can_remove": true,
+        "name": "steel_chainbody",
+        "rare": false,
+        "weight": 240,
+        "label": "Steel chainbody"
+    },
+    {
+        "can_remove": true,
+        "name": "steel_platebody",
+        "rare": false,
+        "weight": 240,
+        "label": "Steel platebody"
+    },
+    {
+        "can_remove": true,
+        "name": "mithril_axe",
+        "rare": false,
+        "weight": 240,
+        "label": "Mithril axe"
+    },
+    {
+        "can_remove": true,
+        "name": "mithril_nails",
+        "rare": false,
+        "weight": 240,
+        "label": "Mithril nails"
+    },
+    {
+        "can_remove": true,
+        "name": "mithril_chainbody",
+        "rare": false,
+        "weight": 240,
+        "label": "Mithril chainbody"
+    },
+    {
+        "can_remove": true,
+        "name": "mithril_platebody",
+        "rare": false,
+        "weight": 240,
+        "label": "Mithril platebody"
+    },
+    {
+        "can_remove": true,
+        "name": "adamant_axe",
+        "rare": false,
+        "weight": 240,
+        "label": "Adamant axe"
+    },
+    {
+        "can_remove": true,
+        "name": "adamant_nails",
+        "rare": false,
+        "weight": 240,
+        "label": "Adamant nails"
+    },
+    {
+        "can_remove": true,
+        "name": "adamant_chainbody",
+        "rare": false,
+        "weight": 240,
+        "label": "Adamant chainbody"
+    },
+    {
+        "can_remove": true,
+        "name": "adamant_platebody",
+        "rare": false,
+        "weight": 240,
+        "label": "Adamant platebody"
+    },
+    {
+        "can_remove": true,
+        "name": "rune_axe",
+        "rare": false,
+        "weight": 240,
+        "label": "Rune axe"
+    },
+    {
+        "can_remove": true,
+        "name": "rune_nails",
+        "rare": false,
+        "weight": 240,
+        "label": "Rune nails"
+    },
+    {
+        "can_remove": true,
+        "name": "rune_chainbody",
+        "rare": false,
+        "weight": 240,
+        "label": "Rune chainbody"
+    },
+    {
+        "can_remove": true,
+        "name": "rune_platebody",
+        "rare": false,
+        "weight": 240,
+        "label": "Rune platebody"
+    },
+    {
+        "can_remove": true,
+        "name": "tunerchip",
+        "rare": false,
+        "weight": 1250,
+        "label": "Tuner Tablet"
+    },
+    {
+        "can_remove": true,
+        "name": "id_card_f",
+        "rare": true,
+        "weight": 75,
+        "label": "Malicious Access Card"
+    },
+    {
+        "can_remove": true,
+        "name": "secure_card",
+        "rare": true,
+        "weight": 75,
+        "label": "Secure ID Card"
+    },
+    {
+        "can_remove": true,
+        "name": "ball_of_wool",
+        "rare": false,
+        "weight": 75,
+        "label": "Ball of Wool"
+    },
+    {
+        "can_remove": true,
+        "name": "appistol",
+        "rare": false,
+        "weight": 75,
+        "label": "OTs-33 Pernach"
+    },
+    {
+        "can_remove": true,
+        "name": "blank_plate",
+        "rare": false,
+        "weight": 75,
+        "label": "Blank Plate"
+    },
+    {
+        "can_remove": true,
+        "name": "original_plate",
+        "rare": false,
+        "weight": 75,
+        "label": "Original Plate"
+    },
+    {
+        "can_remove": true,
+        "name": "gruppecard",
+        "rare": false,
+        "weight": 75,
+        "label": "Gruppe6 Security Card"
+    },
+    {
+        "can_remove": true,
+        "name": "blue_phone",
+        "rare": false,
+        "weight": 75,
+        "label": "Blue Phone"
+    },
+    {
+        "can_remove": true,
+        "name": "beef_mince",
+        "rare": false,
+        "weight": 75,
+        "label": "Beef Mince"
+    },
+    {
+        "can_remove": true,
+        "name": "taco",
+        "rare": false,
+        "weight": 75,
+        "label": "Taco"
+    },
+    {
+        "can_remove": true,
+        "name": "packaged_taco",
+        "rare": false,
+        "weight": 75,
+        "label": "Packaged Taco"
+    },
+    {
+        "can_remove": true,
+        "name": "beef_mince",
+        "rare": false,
+        "weight": 75,
+        "label": "Beef Mince"
+    },
+    {
+        "can_remove": true,
+        "name": "sprite",
+        "rare": false,
+        "weight": 75,
+        "label": "Sprite"
+    },
+    {
+        "can_remove": true,
+        "name": "fanta",
+        "rare": false,
+        "weight": 75,
+        "label": "Fanta"
+    },
+    {
+        "can_remove": true,
+        "name": "pepsi",
+        "rare": false,
+        "weight": 75,
+        "label": "Pepsi"
+    },
+    {
+        "can_remove": true,
+        "name": "katana",
+        "rare": false,
+        "weight": 2500,
+        "label": "Katana"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_ADVANCEDRIFLE",
+        "rare": false,
+        "weight": 5500,
+        "label": "EF88 Austeyr"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_APPISTOL",
+        "rare": false,
+        "weight": 850,
+        "label": "OTs-33 Pernach"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_ASSAULTRIFLE",
+        "rare": false,
+        "weight": 5500,
+        "label": "Norinco Type 56-2"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_ASSAULTSHOTGUN",
+        "rare": false,
+        "weight": 5500,
+        "label": "UTAS UTS-15"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_ASSAULTSMG",
+        "rare": false,
+        "weight": 4500,
+        "label": "Magpul PDR-C"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_AUTOSHOTGUN",
+        "rare": false,
+        "weight": 5500,
+        "label": "Auto Shotgun"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_BALL",
+        "rare": false,
+        "weight": 750,
+        "label": "Ball"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_BAT",
+        "rare": false,
+        "weight": 750,
+        "label": "Bat"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_BATTLEAXE",
+        "rare": false,
+        "weight": 750,
+        "label": "Pickaxe"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_BOTTLE",
+        "rare": false,
+        "weight": 750,
+        "label": "Bottle"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_BULLPUPRIFLE",
+        "rare": false,
+        "weight": 5500,
+        "label": "Norinco QBZ-95-1"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_BULLPUPSHOTGUN",
+        "rare": false,
+        "weight": 4500,
+        "label": "Kel-Tec KSG"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_BZGAS",
+        "rare": false,
+        "weight": 750,
+        "label": "BZ Gas"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_CARBINERIFLE",
+        "rare": false,
+        "weight": 5500,
+        "label": "Mk 18 Mod 0"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_COMBATMG",
+        "rare": false,
+        "weight": 9500,
+        "label": "FN Mk 48 Mod 1"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_COMBATPDW",
+        "rare": false,
+        "weight": 4500,
+        "label": "SIG-Sauer MPX-SD"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_COMBATPISTOL",
+        "rare": false,
+        "weight": 950,
+        "label": "Glock-17"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_COMPACTLAUNCHER",
+        "rare": false,
+        "weight": 99999,
+        "label": "Compact Launcher"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_COMPACTRIFLE",
+        "rare": false,
+        "weight": 4500,
+        "label": "Draco AK-47"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_CROWBAR",
+        "rare": false,
+        "weight": 750,
+        "label": "Crowbar"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_DAGGER",
+        "rare": false,
+        "weight": 750,
+        "label": "Dagger"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_DBSHOTGUN",
+        "rare": false,
+        "weight": 2500,
+        "label": "Sawed-Off Double Barrel Shotgun"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_DIGISCANNER",
+        "rare": false,
+        "weight": 99999,
+        "label": "Digiscanner"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_DOUBLEACTION",
+        "rare": false,
+        "weight": 850,
+        "label": "Colt New Army & Navy"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_FIREEXTINGUISHER",
+        "rare": false,
+        "weight": 2500,
+        "label": "Fire Extinguisher"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_FIREWORK",
+        "rare": false,
+        "weight": 99999,
+        "label": "Firework Launcher"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_FLARE",
+        "rare": false,
+        "weight": 750,
+        "label": "Flare"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_FLAREGUN",
+        "rare": false,
+        "weight": 750,
+        "label": "Orion Flare Gun"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_FLASHLIGHT",
+        "rare": false,
+        "weight": 750,
+        "label": "Flashlight"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_GARBAGEBAG",
+        "rare": false,
+        "weight": 750,
+        "label": "Garbage Bag"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_GOLFCLUB",
+        "rare": false,
+        "weight": 750,
+        "label": "Golf Club"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_GRENADE",
+        "rare": false,
+        "weight": 750,
+        "label": "M61 Hand Grenade"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_GRENADELAUNCHER",
+        "rare": false,
+        "weight": 99999,
+        "label": "Gernade Launcher"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_GUSENBERG",
+        "rare": false,
+        "weight": 3500,
+        "label": "Thompson M1928A1"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_HAMMER",
+        "rare": false,
+        "weight": 750,
+        "label": "Hammer"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_HANDCUFFS",
+        "rare": false,
+        "weight": 750,
+        "label": "Handcuffs"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_HATCHET",
+        "rare": false,
+        "weight": 750,
+        "label": "Hatchet"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_HEAVYPISTOL",
+        "rare": false,
+        "weight": 1250,
+        "label": "1911"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_HEAVYSHOTGUN",
+        "rare": false,
+        "weight": 5500,
+        "label": "Saiga 12"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_HEAVYSNIPER",
+        "rare": false,
+        "weight": 9500,
+        "label": "Barrett M107"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_HOMINGLAUNCHER",
+        "rare": false,
+        "weight": 99999,
+        "label": "Homing Launcher"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_KNIFE",
+        "rare": false,
+        "weight": 750,
+        "label": "Knife"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_KNUCKLE",
+        "rare": false,
+        "weight": 750,
+        "label": "Knuckle Dusters "
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_MACHETE",
+        "rare": false,
+        "weight": 750,
+        "label": "Machete"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_MACHINEPISTOL",
+        "rare": false,
+        "weight": 1350,
+        "label": "Intratec TEC-DC9"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_MARKSMANPISTOL",
+        "rare": false,
+        "weight": 3500,
+        "label": "Thompson Center Arms Contender"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_MARKSMANRIFLE",
+        "rare": false,
+        "weight": 6500,
+        "label": "Ruger Mini-30"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_MG",
+        "rare": false,
+        "weight": 9500,
+        "label": "PKM"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_MICROSMG",
+        "rare": false,
+        "weight": 2500,
+        "label": "IMI Mini Uzi"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_MINIGUN",
+        "rare": false,
+        "weight": 99999,
+        "label": "Minigun"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_MINISMG",
+        "rare": false,
+        "weight": 1100,
+        "label": "Sa. Vz. 82 Skorpion"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_MOLOTOV",
+        "rare": false,
+        "weight": 750,
+        "label": "Molotov Cocktail"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_MUSKET",
+        "rare": false,
+        "weight": 9500,
+        "label": "M107"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_NIGHTSTICK",
+        "rare": false,
+        "weight": 750,
+        "label": "Police Baton"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_PETROLCAN",
+        "rare": false,
+        "weight": 5000,
+        "label": "Petrol Can"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_PIPEBOMB",
+        "rare": false,
+        "weight": 850,
+        "label": "Pipe Bomb"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_PISTOL",
+        "rare": false,
+        "weight": 850,
+        "label": "Taurus PT92AF"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_PISTOL50",
+        "rare": false,
+        "weight": 1100,
+        "label": "Desert Eagle"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_POOLCUE",
+        "rare": false,
+        "weight": 750,
+        "label": "Pool Cue"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_PROXMINE",
+        "rare": false,
+        "weight": 850,
+        "label": "Proximity Mine"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_PUMPSHOTGUN",
+        "rare": false,
+        "weight": 3500,
+        "label": "Mossberg 590"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_RAILGUN",
+        "rare": false,
+        "weight": 99999,
+        "label": "Rail Gun"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_REVOLVER",
+        "rare": false,
+        "weight": 1100,
+        "label": "Taurus Raging Bull"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_RPG",
+        "rare": false,
+        "weight": 99999,
+        "label": "RPG"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_SAWNOFFSHOTGUN",
+        "rare": false,
+        "weight": 2500,
+        "label": "Shortened Mossberg 500"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_SMG",
+        "rare": false,
+        "weight": 4750,
+        "label": "Heckler & Koch MP5N"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_SMOKEGRENADE",
+        "rare": false,
+        "weight": 850,
+        "label": "M18 Smoke Grenade"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_SNIPERRIFLE",
+        "rare": false,
+        "weight": 9500,
+        "label": "AI AW-F"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_SNOWBALL",
+        "rare": false,
+        "weight": 75,
+        "label": "Snow Ball"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_SNSPISTOL",
+        "rare": false,
+        "weight": 3500,
+        "label": "Heckler & Koch P7M10"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_SPECIALCARBINE",
+        "rare": false,
+        "weight": 5500,
+        "label": "Heckler & Koch G36C"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_STICKYBOMB",
+        "rare": false,
+        "weight": 3500,
+        "label": "Sticky Bombs"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_STINGER",
+        "rare": false,
+        "weight": 3500,
+        "label": "Stinger S-200"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_STUNGUN",
+        "rare": false,
+        "weight": 3500,
+        "label": "Police Taser"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_SWITCHBLADE",
+        "rare": false,
+        "weight": 750,
+        "label": "Switch Blade"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_VINTAGEPISTOL",
+        "rare": false,
+        "weight": 3500,
+        "label": "FN Model 1922"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_WRENCH",
+        "rare": false,
+        "weight": 2500,
+        "label": "Wrench"
+    },
+    {
+        "can_remove": true,
+        "name": "craftingtable",
+        "rare": false,
+        "weight": 1,
+        "label": "Crafting Table"
+    },
+    {
+        "can_remove": true,
+        "name": "recipe_topaz_amulet",
+        "rare": false,
+        "weight": 1,
+        "label": "Recipe: Topaz Amulet"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_QUATERSTAFF",
+        "rare": true,
+        "weight": 0,
+        "label": "Quaterstaff (Artifact)"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_PENETRATOR",
+        "rare": true,
+        "weight": 0,
+        "label": "Penetrator (Artifact)"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_FORK",
+        "rare": true,
+        "weight": 0,
+        "label": "Fork (Artifact)"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_DILDO",
+        "rare": true,
+        "weight": 0,
+        "label": "Dildo (Artifact)"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_BREADSTICK",
+        "rare": true,
+        "weight": 0,
+        "label": "Bread Stick (Artifact)"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_BONESAW",
+        "rare": true,
+        "weight": 0,
+        "label": "Bonesaw (Artifact)"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_KATANA",
+        "rare": true,
+        "weight": 0,
+        "label": "Katana (Artifact)"
+    },
+    {
+        "can_remove": true,
+        "name": "pistolmag",
+        "rare": false,
+        "weight": 250,
+        "label": "Pistol Magazine"
+    },
+    {
+        "can_remove": true,
+        "name": "smgmag",
+        "rare": false,
+        "weight": 550,
+        "label": "Smg Magazine"
+    },
+    {
+        "can_remove": true,
+        "name": "riflemag",
+        "rare": false,
+        "weight": 750,
+        "label": "Rifle Magazine"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_ARMADYL",
+        "rare": true,
+        "weight": 0,
+        "label": "Armadyl Godsword (Artifact)"
+    },
+    {
+        "can_remove": true,
+        "name": "mag",
+        "rare": false,
+        "weight": 240,
+        "label": "Extended Mag. (Attachment)"
+    },
+    {
+        "can_remove": true,
+        "name": "compensator",
+        "rare": false,
+        "weight": 240,
+        "label": "Compensator"
+    },
+    {
+        "can_remove": true,
+        "name": "scope",
+        "rare": false,
+        "weight": 240,
+        "label": "Scope (Attachment)"
+    },
+    {
+        "can_remove": true,
+        "name": "metalfinish",
+        "rare": false,
+        "weight": 75,
+        "label": "Metal Finish"
+    },
+    {
+        "can_remove": true,
+        "name": "longsight",
+        "rare": false,
+        "weight": 240,
+        "label": "Long Sight"
+    },
+    {
+        "can_remove": true,
+        "name": "mediumscope",
+        "rare": false,
+        "weight": 240,
+        "label": "Medium Scope"
+    },
+    {
+        "can_remove": true,
+        "name": "largescope",
+        "rare": false,
+        "weight": 240,
+        "label": "Large Scope"
+    },
+    {
+        "can_remove": true,
+        "name": "holographic",
+        "rare": false,
+        "weight": 480,
+        "label": "Holographic"
+    },
+    {
+        "can_remove": true,
+        "name": "camoskin",
+        "rare": false,
+        "weight": 75,
+        "label": "Camo Skin"
+    },
+    {
+        "can_remove": true,
+        "name": "skullsskin",
+        "rare": false,
+        "weight": 75,
+        "label": "Skull Skin"
+    },
+    {
+        "can_remove": true,
+        "name": "tacticalmuzzle",
+        "rare": false,
+        "weight": 240,
+        "label": "Tactical Muzzle"
+    },
+    {
+        "can_remove": true,
+        "name": "grip",
+        "rare": false,
+        "weight": 240,
+        "label": "Combat Grip (Attachment)"
+    },
+    {
+        "can_remove": true,
+        "name": "suppressor",
+        "rare": false,
+        "weight": 240,
+        "label": "Suppressor (Attachment)"
+    },
+    {
+        "can_remove": true,
+        "name": "tacticalflashlight",
+        "rare": false,
+        "weight": 240,
+        "label": "Tactical Flashlight"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_SNSPISTOL_MK2",
+        "rare": false,
+        "weight": 1250,
+        "label": "SNS Pistol MK2"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_PISTOL_MK2",
+        "rare": false,
+        "weight": 1250,
+        "label": "PT92AF"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_SMG_MK2",
+        "rare": false,
+        "weight": 3500,
+        "label": "Heckler & Koch MP5K"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_PUMPSHOTGUN_MK2",
+        "rare": false,
+        "weight": 3500,
+        "label": "Pump Shotgun MK2"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_ASSAULTRIFLE_MK2",
+        "rare": false,
+        "weight": 6500,
+        "label": "Type 56-2"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_CARBINERIFLE_MK2",
+        "rare": false,
+        "weight": 6500,
+        "label": "Sig MPX-C"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_SPECIALCARBINE_MK2",
+        "rare": false,
+        "weight": 6500,
+        "label": "HK G36C"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_BEANBAG",
+        "rare": false,
+        "weight": 3500,
+        "label": "Beanbag Shotgun"
+    },
+    {
+        "can_remove": true,
+        "name": "lightdivingsuit",
+        "rare": false,
+        "weight": 1500,
+        "label": "Light Diving Suit"
+    },
+    {
+        "can_remove": true,
+        "name": "divingsuit",
+        "rare": false,
+        "weight": 3500,
+        "label": "Diving Suit"
+    },
+    {
+        "can_remove": true,
+        "name": "marlboro",
+        "rare": false,
+        "weight": 75,
+        "label": "Marlboro Cigarettes"
+    },
+    {
+        "can_remove": true,
+        "name": "mini_c4",
+        "rare": false,
+        "weight": 400,
+        "label": "Mini C4 Charge"
+    },
+    {
+        "can_remove": true,
+        "name": "normal_c4",
+        "rare": false,
+        "weight": 600,
+        "label": "C4 Charge"
+    },
+    {
+        "can_remove": true,
+        "name": "laptop_h",
+        "rare": false,
+        "weight": 1100,
+        "label": "Hacker Laptop"
+    },
+    {
+        "can_remove": true,
+        "name": "thermal_charge",
+        "rare": false,
+        "weight": 850,
+        "label": "Thermal Charge"
+    },
+    {
+        "can_remove": true,
+        "name": "mcdonalds_burger",
+        "rare": false,
+        "weight": 75,
+        "label": "McDonalds Burger"
+    },
+    {
+        "can_remove": true,
+        "name": "mcdonalds_drink",
+        "rare": false,
+        "weight": 75,
+        "label": "McDonalds Drink"
+    },
+    {
+        "can_remove": true,
+        "name": "mcdonalds_fries",
+        "rare": false,
+        "weight": 75,
+        "label": "McDonalds Fries"
+    },
+    {
+        "can_remove": true,
+        "name": "mcdonalds_meal",
+        "rare": false,
+        "weight": 75,
+        "label": "McDonalds Meal"
+    },
+    {
+        "can_remove": true,
+        "name": "weed_seed",
+        "rare": false,
+        "weight": 25,
+        "label": "Weed Seed"
+    },
+    {
+        "can_remove": true,
+        "name": "weed_pouch",
+        "rare": false,
+        "weight": 250,
+        "label": "Weed Pouch"
+    },
+    {
+        "can_remove": true,
+        "name": "weed_bud",
+        "rare": false,
+        "weight": 50,
+        "label": "Weed Bud"
+    },
+    {
+        "can_remove": true,
+        "name": "joint",
+        "rare": false,
+        "weight": 100,
+        "label": "Joint"
+    },
+    {
+        "can_remove": true,
+        "name": "rollingpapers",
+        "rare": false,
+        "weight": 75,
+        "label": "Rolling Papers"
+    },
+    {
+        "can_remove": true,
+        "name": "rope",
+        "rare": false,
+        "weight": 240,
+        "label": "Rope"
+    },
+    {
+        "can_remove": true,
+        "name": "flakedmaize",
+        "rare": false,
+        "weight": 480,
+        "label": "Flaked Maize 1lbs"
+    },
+    {
+        "can_remove": true,
+        "name": "wheat",
+        "rare": false,
+        "weight": 240,
+        "label": "Wheat"
+    },
+    {
+        "can_remove": true,
+        "name": "moonshine",
+        "rare": false,
+        "weight": 1250,
+        "label": "Moonshine"
+    },
+    {
+        "can_remove": true,
+        "name": "wheatgrain",
+        "rare": false,
+        "weight": 240,
+        "label": "Wheat Grain"
+    },
+    {
+        "can_remove": true,
+        "name": "logs",
+        "rare": false,
+        "weight": 480,
+        "label": "Logs"
+    },
+    {
+        "can_remove": true,
+        "name": "redwood_logs",
+        "rare": false,
+        "weight": 480,
+        "label": "Redwood logs"
+    },
+    {
+        "can_remove": true,
+        "name": "gps",
+        "rare": false,
+        "weight": 75,
+        "label": "GPS"
+    },
+    {
+        "can_remove": true,
+        "name": "leather_body",
+        "rare": false,
+        "weight": 240,
+        "label": "Leather body"
+    },
+    {
+        "can_remove": true,
+        "name": "hardleather_body",
+        "rare": false,
+        "weight": 240,
+        "label": "Hardleather body"
+    },
+    {
+        "can_remove": true,
+        "name": "studded_body",
+        "rare": false,
+        "weight": 240,
+        "label": "Studded body"
+    },
+    {
+        "can_remove": true,
+        "name": "snakeskin_body",
+        "rare": false,
+        "weight": 240,
+        "label": "Snakeskin body"
+    },
+    {
+        "can_remove": true,
+        "name": "yakhide_body",
+        "rare": false,
+        "weight": 240,
+        "label": "Yak-hide body"
+    },
+    {
+        "can_remove": true,
+        "name": "snakeskin",
+        "rare": false,
+        "weight": 75,
+        "label": "Snakeskin"
+    },
+    {
+        "can_remove": true,
+        "name": "leather",
+        "rare": false,
+        "weight": 240,
+        "label": "Leather"
+    },
+    {
+        "can_remove": true,
+        "name": "hardleather",
+        "rare": false,
+        "weight": 240,
+        "label": "Hard leather"
+    },
+    {
+        "can_remove": true,
+        "name": "steel_studs",
+        "rare": false,
+        "weight": 75,
+        "label": "Steel studs"
+    },
+    {
+        "can_remove": true,
+        "name": "cowhide",
+        "rare": false,
+        "weight": 240,
+        "label": "Cowhide"
+    },
+    {
+        "can_remove": true,
+        "name": "sapphire_ring",
+        "rare": false,
+        "weight": 240,
+        "label": "Sapphire ring"
+    },
+    {
+        "can_remove": true,
+        "name": "sapphire_necklace",
+        "rare": false,
+        "weight": 240,
+        "label": "Sapphire necklace"
+    },
+    {
+        "can_remove": true,
+        "name": "sapphire_bracelet",
+        "rare": false,
+        "weight": 240,
+        "label": "Sapphire bracelet"
+    },
+    {
+        "can_remove": true,
+        "name": "sapphire_amulet",
+        "rare": false,
+        "weight": 240,
+        "label": "Sapphire amulet"
+    },
+    {
+        "can_remove": true,
+        "name": "emerald_ring",
+        "rare": false,
+        "weight": 240,
+        "label": "Emerald ring"
+    },
+    {
+        "can_remove": true,
+        "name": "emerald_necklace",
+        "rare": false,
+        "weight": 240,
+        "label": "Emerald necklace"
+    },
+    {
+        "can_remove": true,
+        "name": "emerald_bracelet",
+        "rare": false,
+        "weight": 240,
+        "label": "Emerald bracelet"
+    },
+    {
+        "can_remove": true,
+        "name": "emerald_amulet",
+        "rare": false,
+        "weight": 240,
+        "label": "Emerald amulet"
+    },
+    {
+        "can_remove": true,
+        "name": "ruby_ring",
+        "rare": false,
+        "weight": 240,
+        "label": "Ruby ring"
+    },
+    {
+        "can_remove": true,
+        "name": "ruby_necklace",
+        "rare": false,
+        "weight": 240,
+        "label": "Ruby necklace"
+    },
+    {
+        "can_remove": true,
+        "name": "ruby_bracelet",
+        "rare": false,
+        "weight": 240,
+        "label": "Ruby bracelet"
+    },
+    {
+        "can_remove": true,
+        "name": "ruby_amulet",
+        "rare": false,
+        "weight": 240,
+        "label": "Ruby amulet"
+    },
+    {
+        "can_remove": true,
+        "name": "diamond_ring",
+        "rare": false,
+        "weight": 240,
+        "label": "Diamond ring"
+    },
+    {
+        "can_remove": true,
+        "name": "diamond_necklace",
+        "rare": false,
+        "weight": 240,
+        "label": "Diamond necklace"
+    },
+    {
+        "can_remove": true,
+        "name": "diamond_bracelet",
+        "rare": false,
+        "weight": 240,
+        "label": "Diamond bracelet"
+    },
+    {
+        "can_remove": true,
+        "name": "diamond_amulet",
+        "rare": false,
+        "weight": 240,
+        "label": "Diamond amulet"
+    },
+    {
+        "can_remove": true,
+        "name": "chips",
+        "rare": false,
+        "weight": 0,
+        "label": "Casino Chips"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_COMBATMG_MK2",
+        "rare": false,
+        "weight": 9500,
+        "label": "M60E4"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_MARKSMANRIFLE_MK2",
+        "rare": false,
+        "weight": 6500,
+        "label": "Mk 14 Mod 1 EBR"
+    },
+    {
+        "can_remove": true,
+        "name": "oilrig_flare",
+        "rare": false,
+        "weight": 1,
+        "label": "Flare (Oil Rig Heist)"
+    },
+    {
+        "can_remove": true,
+        "name": "pliers",
+        "rare": false,
+        "weight": 25,
+        "label": "Pliers"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_FLASHBANG",
+        "rare": false,
+        "weight": 1,
+        "label": "Flashbang"
+    },
+    {
+        "can_remove": true,
+        "name": "damaged_leaves",
+        "rare": false,
+        "weight": 95,
+        "label": "Damaged Leaves"
+    },
+    {
+        "can_remove": true,
+        "name": "diluted_solvent",
+        "rare": false,
+        "weight": 1000,
+        "label": "Diluted Solvent"
+    },
+    {
+        "can_remove": true,
+        "name": "mahogany_logs",
+        "rare": false,
+        "weight": 480,
+        "label": "Mahogany logs"
+    },
+    {
+        "can_remove": false,
+        "name": "katanablueprint",
+        "rare": true,
+        "weight": 0,
+        "label": "Blueprint: Katana (Artifact)"
+    },
+    {
+        "can_remove": false,
+        "name": "tamahagane",
+        "rare": true,
+        "weight": 1,
+        "label": "Tamahagane"
+    },
+    {
+        "can_remove": true,
+        "name": "drummag",
+        "rare": false,
+        "weight": 240,
+        "label": "Drum Mag. (Attachment)"
+    },
+    {
+        "can_remove": true,
+        "name": "WEAPON_CERAMICPISTOL",
+        "rare": false,
+        "weight": 3500,
+        "label": "Heckler & Koch P7"
+    },
+    {
+        "can_remove": true,
+        "name": "GADGET_PARACHUTE",
+        "rare": false,
+        "weight": 1250,
+        "label": "Parachute"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_DRAGONAXE",
+        "rare": true,
+        "weight": 0,
+        "label": "Dragon Axe (Artifact)"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_DRAGONPICKAXE",
+        "rare": true,
+        "weight": 0,
+        "label": "Dragon Pickaxe (Artifact)"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_KIRITOSWORDBLACK",
+        "rare": true,
+        "weight": 0,
+        "label": "Dark Repulsor (Artifact)"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_KIRITOSWORDBLUE",
+        "rare": true,
+        "weight": 0,
+        "label": "Elucidator (Artifact)"
+    },
+    {
+        "can_remove": true,
+        "name": "usb_white",
+        "rare": true,
+        "weight": 1,
+        "label": "White USB-C"
+    },
+    {
+        "can_remove": true,
+        "name": "keypad_decoder",
+        "rare": false,
+        "weight": 1,
+        "label": "Keypad Decoder Board A300"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_DRAGONDAGGER",
+        "rare": true,
+        "weight": 0,
+        "label": "Dragon Dagger (Artifact)"
+    },
+    {
+        "can_remove": false,
+        "name": "WEAPON_DRAGONEXCALIBUR",
+        "rare": true,
+        "weight": 0,
+        "label": "Dragon Excalibur (Artifact)"
+    }
+]

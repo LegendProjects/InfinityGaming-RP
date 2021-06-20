@@ -1,0 +1,18 @@
+@font-face {
+	font-family: Naowh;
+	src: url('../fonts/Naowh.ttf');
+}
+body {background-color: transparent !important;}
+html { overflow-x: hidden !important; overflow-y: hidden !important; background-color: transparent !important;}
+
+.bodycamEMS {
+    position: absolute;
+    max-lines: 2;
+    font-size: 0.5vw;
+    font-family: Naowh;
+    text-align: left;
+    line-height: 1px;
+    color: rgba(255, 255, 255, 0.459);
+    top: 0.5%;
+    left: 0.5%;
+}
